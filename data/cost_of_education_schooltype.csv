@@ -1,0 +1,1674 @@
+CostID,SchoolYear,SchoolState,SchoolType,EducationLevel,AnnualTotalDegreeCost,EstimatedTotalDegreeCost
+1,2021,Alabama,Private,Bachelor's Degree,27967,111868
+2,2021,Alabama,Private,Doctoral Degree,55610,278050
+3,2021,Alabama,Private,Master's Degree,46494,92988
+4,2021,Alabama,Public In-State,Associate Degree,5048,10096
+5,2021,Alabama,Public In-State,Bachelor's Degree,10376,41504
+6,2021,Alabama,Public In-State,Doctoral Degree,32404,162020
+7,2021,Alabama,Public In-State,Master's Degree,25314,50628
+8,2021,Alabama,Public Out-of-State,Associate Degree,10082,20164
+9,2021,Alabama,Public Out-of-State,Bachelor's Degree,37381,149524
+10,2021,Alaska,Private,Bachelor's Degree,28362,113448
+11,2021,Alaska,Private,Doctoral Degree,56104,280520
+12,2021,Alaska,Private,Master's Degree,42312,84624
+13,2021,Alaska,Public In-State,Bachelor's Degree,13336,53344
+14,2021,Alaska,Public In-State,Doctoral Degree,32755,163775
+15,2021,Alaska,Public In-State,Master's Degree,26019,52038
+16,2021,Alaska,Public Out-of-State,Bachelor's Degree,38871,155484
+17,2021,Arizona,Private,Bachelor's Degree,22862,91448
+18,2021,Arizona,Private,Doctoral Degree,49744,248720
+19,2021,Arizona,Private,Master's Degree,43319,86638
+20,2021,Arizona,Public In-State,Associate Degree,2160,4320
+21,2021,Arizona,Public In-State,Bachelor's Degree,13272,53088
+22,2021,Arizona,Public In-State,Doctoral Degree,31684,158420
+23,2021,Arizona,Public In-State,Master's Degree,24794,49588
+24,2021,Arizona,Public Out-of-State,Associate Degree,6927,13854
+25,2021,Arizona,Public Out-of-State,Bachelor's Degree,38698,154792
+26,2021,Arkansas,Private,Bachelor's Degree,33614,134456
+27,2021,Arkansas,Private,Doctoral Degree,56482,282410
+28,2021,Arkansas,Private,Master's Degree,43426,86852
+29,2021,Arkansas,Public In-State,Associate Degree,3484,6968
+30,2021,Arkansas,Public In-State,Bachelor's Degree,9794,39176
+31,2021,Arkansas,Public In-State,Doctoral Degree,33784,168920
+32,2021,Arkansas,Public In-State,Master's Degree,25854,51708
+33,2021,Arkansas,Public Out-of-State,Associate Degree,4845,9690
+34,2021,Arkansas,Public Out-of-State,Bachelor's Degree,31392,125568
+35,2021,California,Private,Bachelor's Degree,53680,214720
+36,2021,California,Private,Doctoral Degree,56179,280895
+37,2021,California,Private,Master's Degree,48265,96530
+38,2021,California,Public In-State,Associate Degree,1285,2570
+39,2021,California,Public In-State,Bachelor's Degree,15614,62456
+40,2021,California,Public In-State,Doctoral Degree,31937,159685
+41,2021,California,Public In-State,Master's Degree,25107,50214
+42,2021,California,Public Out-of-State,Associate Degree,8491,16982
+43,2021,California,Public Out-of-State,Bachelor's Degree,50012,200048
+44,2021,Colorado,Private,Bachelor's Degree,36878,147512
+45,2021,Colorado,Private,Doctoral Degree,55002,275010
+46,2021,Colorado,Private,Master's Degree,42803,85606
+47,2021,Colorado,Public In-State,Associate Degree,3468,6936
+48,2021,Colorado,Public In-State,Bachelor's Degree,13019,52076
+49,2021,Colorado,Public In-State,Doctoral Degree,31051,155255
+50,2021,Colorado,Public In-State,Master's Degree,26397,52794
+51,2021,Colorado,Public Out-of-State,Associate Degree,8889,17778
+52,2021,Colorado,Public Out-of-State,Bachelor's Degree,43949,175796
+53,2021,Connecticut,Private,Bachelor's Degree,58707,234828
+54,2021,Connecticut,Private,Doctoral Degree,55010,275050
+55,2021,Connecticut,Private,Master's Degree,43463,86926
+56,2021,Connecticut,Public In-State,Associate Degree,4522,9044
+57,2021,Connecticut,Public In-State,Bachelor's Degree,13938,55752
+58,2021,Connecticut,Public In-State,Doctoral Degree,34437,172185
+59,2021,Connecticut,Public In-State,Master's Degree,24392,48784
+60,2021,Connecticut,Public Out-of-State,Associate Degree,13483,26966
+61,2021,Connecticut,Public Out-of-State,Bachelor's Degree,50819,203276
+62,2021,Delaware,Private,Bachelor's Degree,25743,102972
+63,2021,Delaware,Private,Doctoral Degree,55741,278705
+64,2021,Delaware,Private,Master's Degree,44487,88974
+65,2021,Delaware,Public In-State,Bachelor's Degree,13518,54072
+66,2021,Delaware,Public In-State,Doctoral Degree,34519,172595
+67,2021,Delaware,Public In-State,Master's Degree,27093,54186
+68,2021,Delaware,Public Out-of-State,Bachelor's Degree,45327,181308
+69,2021,District of Columbia,Private,Bachelor's Degree,61912,247648
+70,2021,District of Columbia,Private,Doctoral Degree,53438,267190
+71,2021,District of Columbia,Private,Master's Degree,40686,81372
+72,2021,District of Columbia,Public In-State,Doctoral Degree,34965,174825
+73,2021,District of Columbia,Public In-State,Master's Degree,25710,51420
+74,2021,District of Columbia,Public Out-of-State,Bachelor's Degree,13004,52016
+75,2021,Florida,Private,Bachelor's Degree,41843,167372
+76,2021,Florida,Private,Doctoral Degree,52136,260680
+77,2021,Florida,Private,Master's Degree,43900,87800
+78,2021,Florida,Public In-State,Associate Degree,2506,5012
+79,2021,Florida,Public In-State,Bachelor's Degree,11003,44012
+80,2021,Florida,Public In-State,Doctoral Degree,33745,168725
+81,2021,Florida,Public In-State,Master's Degree,24854,49708
+82,2021,Florida,Public Out-of-State,Associate Degree,9111,18222
+83,2021,Florida,Public Out-of-State,Bachelor's Degree,29325,117300
+84,2021,Georgia,Private,Bachelor's Degree,43627,174508
+85,2021,Georgia,Private,Doctoral Degree,54532,272660
+86,2021,Georgia,Private,Master's Degree,46370,92740
+87,2021,Georgia,Public In-State,Associate Degree,3169,6338
+88,2021,Georgia,Public In-State,Bachelor's Degree,11186,44744
+89,2021,Georgia,Public In-State,Doctoral Degree,33739,168695
+90,2021,Georgia,Public In-State,Master's Degree,24902,49804
+91,2021,Georgia,Public Out-of-State,Associate Degree,8535,17070
+92,2021,Georgia,Public Out-of-State,Bachelor's Degree,34616,138464
+93,2021,Hawaii,Private,Bachelor's Degree,32948,131792
+94,2021,Hawaii,Private,Doctoral Degree,54347,271735
+95,2021,Hawaii,Private,Master's Degree,44977,89954
+96,2021,Hawaii,Public In-State,Associate Degree,3226,6452
+97,2021,Hawaii,Public In-State,Bachelor's Degree,11815,47260
+98,2021,Hawaii,Public In-State,Doctoral Degree,33407,167035
+99,2021,Hawaii,Public In-State,Master's Degree,25253,50506
+100,2021,Hawaii,Public Out-of-State,Associate Degree,8378,16756
+101,2021,Hawaii,Public Out-of-State,Bachelor's Degree,43858,175432
+102,2021,Idaho,Private,Bachelor's Degree,15180,60720
+103,2021,Idaho,Private,Doctoral Degree,52582,262910
+104,2021,Idaho,Private,Master's Degree,41707,83414
+105,2021,Idaho,Public In-State,Associate Degree,3332,6664
+106,2021,Idaho,Public In-State,Bachelor's Degree,9036,36144
+107,2021,Idaho,Public In-State,Doctoral Degree,35732,178660
+108,2021,Idaho,Public In-State,Master's Degree,24531,49062
+109,2021,Idaho,Public Out-of-State,Associate Degree,8235,16470
+110,2021,Idaho,Public Out-of-State,Bachelor's Degree,33736,134944
+111,2021,Illinois,Private,Bachelor's Degree,49783,199132
+112,2021,Illinois,Private,Doctoral Degree,53966,269830
+113,2021,Illinois,Private,Master's Degree,44060,88120
+114,2021,Illinois,Public In-State,Associate Degree,4180,8360
+115,2021,Illinois,Public In-State,Bachelor's Degree,11673,46692
+116,2021,Illinois,Public In-State,Doctoral Degree,35744,178720
+117,2021,Illinois,Public In-State,Master's Degree,25297,50594
+118,2021,Illinois,Public Out-of-State,Associate Degree,11166,22332
+119,2021,Illinois,Public Out-of-State,Bachelor's Degree,40333,161332
+120,2021,Indiana,Private,Bachelor's Degree,48211,192844
+121,2021,Indiana,Private,Doctoral Degree,57778,288890
+122,2021,Indiana,Private,Master's Degree,45444,90888
+123,2021,Indiana,Public In-State,Associate Degree,4637,9274
+124,2021,Indiana,Public In-State,Bachelor's Degree,10915,43660
+125,2021,Indiana,Public In-State,Doctoral Degree,33987,169935
+126,2021,Indiana,Public In-State,Master's Degree,27553,55106
+127,2021,Indiana,Public Out-of-State,Associate Degree,8927,17854
+128,2021,Indiana,Public Out-of-State,Bachelor's Degree,39887,159548
+129,2021,Iowa,Private,Bachelor's Degree,45382,181528
+130,2021,Iowa,Private,Doctoral Degree,57028,285140
+131,2021,Iowa,Private,Master's Degree,41788,83576
+132,2021,Iowa,Public In-State,Associate Degree,5411,10822
+133,2021,Iowa,Public In-State,Bachelor's Degree,10416,41664
+134,2021,Iowa,Public In-State,Doctoral Degree,34476,172380
+135,2021,Iowa,Public In-State,Master's Degree,27526,55052
+136,2021,Iowa,Public Out-of-State,Associate Degree,6844,13688
+137,2021,Iowa,Public Out-of-State,Bachelor's Degree,38100,152400
+138,2021,Kansas,Private,Bachelor's Degree,35339,141356
+139,2021,Kansas,Private,Doctoral Degree,55178,275890
+140,2021,Kansas,Private,Master's Degree,42884,85768
+141,2021,Kansas,Public In-State,Associate Degree,3648,7296
+142,2021,Kansas,Public In-State,Bachelor's Degree,10001,40004
+143,2021,Kansas,Public In-State,Doctoral Degree,31894,159470
+144,2021,Kansas,Public In-State,Master's Degree,25750,51500
+145,2021,Kansas,Public Out-of-State,Associate Degree,4828,9656
+146,2021,Kansas,Public Out-of-State,Bachelor's Degree,33946,135784
+147,2021,Kentucky,Private,Bachelor's Degree,36275,145100
+148,2021,Kentucky,Private,Doctoral Degree,51377,256885
+149,2021,Kentucky,Private,Master's Degree,42856,85712
+150,2021,Kentucky,Public In-State,Associate Degree,4517,9034
+151,2021,Kentucky,Public In-State,Bachelor's Degree,11342,45368
+152,2021,Kentucky,Public In-State,Doctoral Degree,32580,162900
+153,2021,Kentucky,Public In-State,Master's Degree,23267,46534
+154,2021,Kentucky,Public Out-of-State,Associate Degree,15262,30524
+155,2021,Kentucky,Public Out-of-State,Bachelor's Degree,36391,145564
+156,2021,Louisiana,Private,Bachelor's Degree,55526,222104
+157,2021,Louisiana,Private,Doctoral Degree,57841,289205
+158,2021,Louisiana,Private,Master's Degree,47868,95736
+159,2021,Louisiana,Public In-State,Associate Degree,4219,8438
+160,2021,Louisiana,Public In-State,Bachelor's Degree,10389,41556
+161,2021,Louisiana,Public In-State,Doctoral Degree,34396,171980
+162,2021,Louisiana,Public In-State,Master's Degree,25961,51922
+163,2021,Louisiana,Public Out-of-State,Associate Degree,6770,13540
+164,2021,Louisiana,Public Out-of-State,Bachelor's Degree,33722,134888
+165,2021,Maine,Private,Bachelor's Degree,53955,215820
+166,2021,Maine,Private,Doctoral Degree,56332,281660
+167,2021,Maine,Private,Master's Degree,46105,92210
+168,2021,Maine,Public In-State,Associate Degree,3857,7714
+169,2021,Maine,Public In-State,Bachelor's Degree,10300,41200
+170,2021,Maine,Public In-State,Doctoral Degree,34211,171055
+171,2021,Maine,Public In-State,Master's Degree,26326,52652
+172,2021,Maine,Public Out-of-State,Associate Degree,6746,13492
+173,2021,Maine,Public Out-of-State,Bachelor's Degree,39361,157444
+174,2021,Maryland,Private,Bachelor's Degree,58134,232536
+175,2021,Maryland,Private,Doctoral Degree,54848,274240
+176,2021,Maryland,Private,Master's Degree,42456,84912
+177,2021,Maryland,Public In-State,Associate Degree,4369,8738
+178,2021,Maryland,Public In-State,Bachelor's Degree,12979,51916
+179,2021,Maryland,Public In-State,Doctoral Degree,33082,165410
+180,2021,Maryland,Public In-State,Master's Degree,26846,53692
+181,2021,Maryland,Public Out-of-State,Associate Degree,10623,21246
+182,2021,Maryland,Public Out-of-State,Bachelor's Degree,39355,157420
+183,2021,Massachusetts,Private,Bachelor's Degree,65783,263132
+184,2021,Massachusetts,Private,Doctoral Degree,51488,257440
+185,2021,Massachusetts,Private,Master's Degree,45092,90184
+186,2021,Massachusetts,Public In-State,Associate Degree,5529,11058
+187,2021,Massachusetts,Public In-State,Bachelor's Degree,14378,57512
+188,2021,Massachusetts,Public In-State,Doctoral Degree,33206,166030
+189,2021,Massachusetts,Public In-State,Master's Degree,25621,51242
+190,2021,Massachusetts,Public Out-of-State,Associate Degree,10680,21360
+191,2021,Massachusetts,Public Out-of-State,Bachelor's Degree,46397,185588
+192,2021,Michigan,Private,Bachelor's Degree,41790,167160
+193,2021,Michigan,Private,Doctoral Degree,57210,286050
+194,2021,Michigan,Private,Master's Degree,42847,85694
+195,2021,Michigan,Public In-State,Associate Degree,3756,7512
+196,2021,Michigan,Public In-State,Bachelor's Degree,11061,44244
+197,2021,Michigan,Public In-State,Doctoral Degree,36033,180165
+198,2021,Michigan,Public In-State,Master's Degree,25035,50070
+199,2021,Michigan,Public Out-of-State,Associate Degree,7707,15414
+200,2021,Michigan,Public Out-of-State,Bachelor's Degree,50488,201952
+201,2021,Minnesota,Private,Bachelor's Degree,45775,183100
+202,2021,Minnesota,Private,Doctoral Degree,57681,288405
+203,2021,Minnesota,Private,Master's Degree,42848,85696
+204,2021,Minnesota,Public In-State,Associate Degree,5545,11090
+205,2021,Minnesota,Public In-State,Bachelor's Degree,10021,40084
+206,2021,Minnesota,Public In-State,Doctoral Degree,31077,155385
+207,2021,Minnesota,Public In-State,Master's Degree,24227,48454
+208,2021,Minnesota,Public Out-of-State,Associate Degree,6012,12024
+209,2021,Minnesota,Public Out-of-State,Bachelor's Degree,34641,138564
+210,2021,Mississippi,Private,Bachelor's Degree,28263,113052
+211,2021,Mississippi,Private,Doctoral Degree,54430,272150
+212,2021,Mississippi,Private,Master's Degree,43226,86452
+213,2021,Mississippi,Public In-State,Associate Degree,3491,6982
+214,2021,Mississippi,Public In-State,Bachelor's Degree,10579,42316
+215,2021,Mississippi,Public In-State,Doctoral Degree,32482,162410
+216,2021,Mississippi,Public In-State,Master's Degree,24788,49576
+217,2021,Mississippi,Public Out-of-State,Associate Degree,5820,11640
+218,2021,Mississippi,Public Out-of-State,Bachelor's Degree,30739,122956
+219,2021,Missouri,Private,Bachelor's Degree,38798,155192
+220,2021,Missouri,Private,Doctoral Degree,55621,278105
+221,2021,Missouri,Private,Master's Degree,43612,87224
+222,2021,Missouri,Public In-State,Associate Degree,3676,7352
+223,2021,Missouri,Public In-State,Bachelor's Degree,10084,40336
+224,2021,Missouri,Public In-State,Doctoral Degree,33390,166950
+225,2021,Missouri,Public In-State,Master's Degree,26202,52404
+226,2021,Missouri,Public Out-of-State,Associate Degree,6783,13566
+227,2021,Missouri,Public Out-of-State,Bachelor's Degree,31964,127856
+228,2021,Montana,Private,Bachelor's Degree,41908,167632
+229,2021,Montana,Private,Doctoral Degree,52525,262625
+230,2021,Montana,Private,Master's Degree,48192,96384
+231,2021,Montana,Public In-State,Associate Degree,3981,7962
+232,2021,Montana,Public In-State,Bachelor's Degree,9938,39752
+233,2021,Montana,Public In-State,Doctoral Degree,35782,178910
+234,2021,Montana,Public In-State,Master's Degree,24531,49062
+235,2021,Montana,Public Out-of-State,Associate Degree,9038,18076
+236,2021,Montana,Public Out-of-State,Bachelor's Degree,36306,145224
+237,2021,Nebraska,Private,Bachelor's Degree,34984,139936
+238,2021,Nebraska,Private,Doctoral Degree,50276,251380
+239,2021,Nebraska,Private,Master's Degree,41623,83246
+240,2021,Nebraska,Public In-State,Associate Degree,3179,6358
+241,2021,Nebraska,Public In-State,Bachelor's Degree,10591,42364
+242,2021,Nebraska,Public In-State,Doctoral Degree,31055,155275
+243,2021,Nebraska,Public In-State,Master's Degree,26671,53342
+244,2021,Nebraska,Public Out-of-State,Associate Degree,3956,7912
+245,2021,Nebraska,Public Out-of-State,Bachelor's Degree,32868,131472
+246,2021,Nevada,Private,Bachelor's Degree,40241,160964
+247,2021,Nevada,Private,Doctoral Degree,54572,272860
+248,2021,Nevada,Private,Master's Degree,46057,92114
+249,2021,Nevada,Public In-State,Bachelor's Degree,11631,46524
+250,2021,Nevada,Public In-State,Doctoral Degree,34933,174665
+251,2021,Nevada,Public In-State,Master's Degree,25490,50980
+252,2021,Nevada,Public Out-of-State,Bachelor's Degree,34641,138564
+253,2021,New Hampshire,Private,Bachelor's Degree,29103,116412
+254,2021,New Hampshire,Private,Doctoral Degree,55062,275310
+255,2021,New Hampshire,Private,Master's Degree,44236,88472
+256,2021,New Hampshire,Public In-State,Associate Degree,7123,14246
+257,2021,New Hampshire,Public In-State,Bachelor's Degree,12472,49888
+258,2021,New Hampshire,Public In-State,Doctoral Degree,32122,160610
+259,2021,New Hampshire,Public In-State,Master's Degree,26775,53550
+260,2021,New Hampshire,Public Out-of-State,Associate Degree,15343,30686
+261,2021,New Hampshire,Public Out-of-State,Bachelor's Degree,43728,174912
+262,2021,New Jersey,Private,Bachelor's Degree,52441,209764
+263,2021,New Jersey,Private,Doctoral Degree,57537,287685
+264,2021,New Jersey,Private,Master's Degree,47620,95240
+265,2021,New Jersey,Public In-State,Associate Degree,4919,9838
+266,2021,New Jersey,Public In-State,Bachelor's Degree,14151,56604
+267,2021,New Jersey,Public In-State,Doctoral Degree,34532,172660
+268,2021,New Jersey,Public In-State,Master's Degree,25670,51340
+269,2021,New Jersey,Public Out-of-State,Associate Degree,8136,16272
+270,2021,New Jersey,Public Out-of-State,Bachelor's Degree,42833,171332
+271,2021,New Mexico,Private,Bachelor's Degree,36770,147080
+272,2021,New Mexico,Private,Doctoral Degree,51376,256880
+273,2021,New Mexico,Private,Master's Degree,46843,93686
+274,2021,New Mexico,Public In-State,Associate Degree,1766,3532
+275,2021,New Mexico,Public In-State,Bachelor's Degree,9719,38876
+276,2021,New Mexico,Public In-State,Doctoral Degree,34622,173110
+277,2021,New Mexico,Public In-State,Master's Degree,24369,48738
+278,2021,New Mexico,Public Out-of-State,Associate Degree,6236,12472
+279,2021,New Mexico,Public Out-of-State,Bachelor's Degree,31364,125456
+280,2021,New York,Private,Bachelor's Degree,58423,233692
+281,2021,New York,Private,Doctoral Degree,56760,283800
+282,2021,New York,Private,Master's Degree,46943,93886
+283,2021,New York,Public In-State,Associate Degree,5576,11152
+284,2021,New York,Public In-State,Bachelor's Degree,15815,63260
+285,2021,New York,Public In-State,Doctoral Degree,34332,171660
+286,2021,New York,Public In-State,Master's Degree,24868,49736
+287,2021,New York,Public Out-of-State,Associate Degree,8874,17748
+288,2021,New York,Public Out-of-State,Bachelor's Degree,35928,143712
+289,2021,North Carolina,Private,Bachelor's Degree,49894,199576
+290,2021,North Carolina,Private,Doctoral Degree,52218,261090
+291,2021,North Carolina,Private,Master's Degree,45230,90460
+292,2021,North Carolina,Public In-State,Associate Degree,2474,4948
+293,2021,North Carolina,Public In-State,Bachelor's Degree,10519,42076
+294,2021,North Carolina,Public In-State,Doctoral Degree,34750,173750
+295,2021,North Carolina,Public In-State,Master's Degree,25327,50654
+296,2021,North Carolina,Public Out-of-State,Associate Degree,8511,17022
+297,2021,North Carolina,Public Out-of-State,Bachelor's Degree,33655,134620
+298,2021,North Dakota,Private,Bachelor's Degree,24624,98496
+299,2021,North Dakota,Private,Doctoral Degree,49915,249575
+300,2021,North Dakota,Private,Master's Degree,42900,85800
+301,2021,North Dakota,Public In-State,Associate Degree,5233,10466
+302,2021,North Dakota,Public In-State,Bachelor's Degree,8992,35968
+303,2021,North Dakota,Public In-State,Doctoral Degree,32610,163050
+304,2021,North Dakota,Public In-State,Master's Degree,24778,49556
+305,2021,North Dakota,Public Out-of-State,Associate Degree,6186,12372
+306,2021,North Dakota,Public Out-of-State,Bachelor's Degree,22493,89972
+307,2021,Ohio,Private,Bachelor's Degree,47536,190144
+308,2021,Ohio,Private,Doctoral Degree,55081,275405
+309,2021,Ohio,Private,Master's Degree,46588,93176
+310,2021,Ohio,Public In-State,Associate Degree,4416,8832
+311,2021,Ohio,Public In-State,Bachelor's Degree,12811,51244
+312,2021,Ohio,Public In-State,Doctoral Degree,34178,170890
+313,2021,Ohio,Public In-State,Master's Degree,25021,50042
+314,2021,Ohio,Public Out-of-State,Associate Degree,7888,15776
+315,2021,Ohio,Public Out-of-State,Bachelor's Degree,39024,156096
+316,2021,Oklahoma,Private,Bachelor's Degree,39823,159292
+317,2021,Oklahoma,Private,Doctoral Degree,57187,285935
+318,2021,Oklahoma,Private,Master's Degree,40723,81446
+319,2021,Oklahoma,Public In-State,Associate Degree,4194,8388
+320,2021,Oklahoma,Public In-State,Bachelor's Degree,9219,36876
+321,2021,Oklahoma,Public In-State,Doctoral Degree,34029,170145
+322,2021,Oklahoma,Public In-State,Master's Degree,24802,49604
+323,2021,Oklahoma,Public Out-of-State,Associate Degree,9320,18640
+324,2021,Oklahoma,Public Out-of-State,Bachelor's Degree,30956,123824
+325,2021,Oregon,Private,Bachelor's Degree,58711,234844
+326,2021,Oregon,Private,Doctoral Degree,50805,254025
+327,2021,Oregon,Private,Master's Degree,47353,94706
+328,2021,Oregon,Public In-State,Associate Degree,5136,10272
+329,2021,Oregon,Public In-State,Bachelor's Degree,12980,51920
+330,2021,Oregon,Public In-State,Doctoral Degree,31844,159220
+331,2021,Oregon,Public In-State,Master's Degree,26773,53546
+332,2021,Oregon,Public Out-of-State,Associate Degree,8710,17420
+333,2021,Oregon,Public Out-of-State,Bachelor's Degree,46915,187660
+334,2021,Pennsylvania,Private,Bachelor's Degree,58357,233428
+335,2021,Pennsylvania,Private,Doctoral Degree,56378,281890
+336,2021,Pennsylvania,Private,Master's Degree,45821,91642
+337,2021,Pennsylvania,Public In-State,Associate Degree,5441,10882
+338,2021,Pennsylvania,Public In-State,Bachelor's Degree,11508,46032
+339,2021,Pennsylvania,Public In-State,Doctoral Degree,36433,182165
+340,2021,Pennsylvania,Public In-State,Master's Degree,25664,51328
+341,2021,Pennsylvania,Public Out-of-State,Associate Degree,12808,25616
+342,2021,Pennsylvania,Public Out-of-State,Bachelor's Degree,37205,148820
+343,2021,Rhode Island,Private,Bachelor's Degree,61692,246768
+344,2021,Rhode Island,Private,Doctoral Degree,58937,294685
+345,2021,Rhode Island,Private,Master's Degree,45006,90012
+346,2021,Rhode Island,Public In-State,Associate Degree,4806,9612
+347,2021,Rhode Island,Public In-State,Bachelor's Degree,13249,52996
+348,2021,Rhode Island,Public In-State,Doctoral Degree,35713,178565
+349,2021,Rhode Island,Public In-State,Master's Degree,27438,54876
+350,2021,Rhode Island,Public Out-of-State,Associate Degree,12884,25768
+351,2021,Rhode Island,Public Out-of-State,Bachelor's Degree,45360,181440
+352,2021,South Carolina,Private,Bachelor's Degree,37629,150516
+353,2021,South Carolina,Private,Doctoral Degree,52625,263125
+354,2021,South Carolina,Private,Master's Degree,42857,85714
+355,2021,South Carolina,Public In-State,Associate Degree,4964,9928
+356,2021,South Carolina,Public In-State,Bachelor's Degree,10637,42548
+357,2021,South Carolina,Public In-State,Doctoral Degree,32883,164415
+358,2021,South Carolina,Public In-State,Master's Degree,26677,53354
+359,2021,South Carolina,Public Out-of-State,Associate Degree,10313,20626
+360,2021,South Carolina,Public Out-of-State,Bachelor's Degree,43692,174768
+361,2021,South Dakota,Private,Bachelor's Degree,35229,140916
+362,2021,South Dakota,Private,Doctoral Degree,55637,278185
+363,2021,South Dakota,Private,Master's Degree,42361,84722
+364,2021,South Dakota,Public In-State,Associate Degree,7326,14652
+365,2021,South Dakota,Public In-State,Bachelor's Degree,8166,32664
+366,2021,South Dakota,Public In-State,Doctoral Degree,35049,175245
+367,2021,South Dakota,Public In-State,Master's Degree,26305,52610
+368,2021,South Dakota,Public Out-of-State,Associate Degree,7224,14448
+369,2021,South Dakota,Public Out-of-State,Bachelor's Degree,21090,84360
+370,2021,Tennessee,Private,Bachelor's Degree,41411,165644
+371,2021,Tennessee,Private,Doctoral Degree,57116,285580
+372,2021,Tennessee,Private,Master's Degree,43758,87516
+373,2021,Tennessee,Public In-State,Associate Degree,4361,8722
+374,2021,Tennessee,Public In-State,Bachelor's Degree,10368,41472
+375,2021,Tennessee,Public In-State,Doctoral Degree,33873,169365
+376,2021,Tennessee,Public In-State,Master's Degree,24814,49628
+377,2021,Tennessee,Public Out-of-State,Associate Degree,17013,34026
+378,2021,Tennessee,Public Out-of-State,Bachelor's Degree,35414,141656
+379,2021,Texas,Private,Bachelor's Degree,49884,199536
+380,2021,Texas,Private,Doctoral Degree,49913,249565
+381,2021,Texas,Private,Master's Degree,47418,94836
+382,2021,Texas,Public In-State,Associate Degree,2828,5656
+383,2021,Texas,Public In-State,Bachelor's Degree,10309,41236
+384,2021,Texas,Public In-State,Doctoral Degree,30735,153675
+385,2021,Texas,Public In-State,Master's Degree,24822,49644
+386,2021,Texas,Public Out-of-State,Associate Degree,7764,15528
+387,2021,Texas,Public Out-of-State,Bachelor's Degree,35780,143120
+388,2021,Utah,Private,Bachelor's Degree,15911,63644
+389,2021,Utah,Private,Doctoral Degree,56122,280610
+390,2021,Utah,Private,Master's Degree,45865,91730
+391,2021,Utah,Public In-State,Associate Degree,3989,7978
+392,2021,Utah,Public In-State,Bachelor's Degree,7889,31556
+393,2021,Utah,Public In-State,Doctoral Degree,34715,173575
+394,2021,Utah,Public In-State,Master's Degree,25306,50612
+395,2021,Utah,Public Out-of-State,Associate Degree,12709,25418
+396,2021,Utah,Public Out-of-State,Bachelor's Degree,29484,117936
+397,2021,Vermont,Private,Bachelor's Degree,63371,253484
+398,2021,Vermont,Private,Doctoral Degree,53210,266050
+399,2021,Vermont,Private,Master's Degree,46355,92710
+400,2021,Vermont,Public In-State,Associate Degree,6920,13840
+401,2021,Vermont,Public In-State,Bachelor's Degree,13159,52636
+402,2021,Vermont,Public In-State,Doctoral Degree,33733,168665
+403,2021,Vermont,Public In-State,Master's Degree,26412,52824
+404,2021,Vermont,Public Out-of-State,Associate Degree,13640,27280
+405,2021,Vermont,Public Out-of-State,Bachelor's Degree,55122,220488
+406,2021,Virginia,Private,Bachelor's Degree,35403,141612
+407,2021,Virginia,Private,Doctoral Degree,56249,281245
+408,2021,Virginia,Private,Master's Degree,44808,89616
+409,2021,Virginia,Public In-State,Associate Degree,5228,10456
+410,2021,Virginia,Public In-State,Bachelor's Degree,11830,47320
+411,2021,Virginia,Public In-State,Doctoral Degree,34619,173095
+412,2021,Virginia,Public In-State,Master's Degree,24808,49616
+413,2021,Virginia,Public Out-of-State,Associate Degree,12059,24118
+414,2021,Virginia,Public Out-of-State,Bachelor's Degree,48023,192092
+415,2021,Washington,Private,Bachelor's Degree,54047,216188
+416,2021,Washington,Private,Doctoral Degree,54118,270590
+417,2021,Washington,Private,Master's Degree,42978,85956
+418,2021,Washington,Public In-State,Associate Degree,4564,9128
+419,2021,Washington,Public In-State,Bachelor's Degree,13541,54164
+420,2021,Washington,Public In-State,Doctoral Degree,33483,167415
+421,2021,Washington,Public In-State,Master's Degree,26001,52002
+422,2021,Washington,Public Out-of-State,Associate Degree,7186,14372
+423,2021,Washington,Public Out-of-State,Bachelor's Degree,44432,177728
+424,2021,West Virginia,Private,Bachelor's Degree,22303,89212
+425,2021,West Virginia,Private,Doctoral Degree,54637,273185
+426,2021,West Virginia,Private,Master's Degree,45305,90610
+427,2021,West Virginia,Public In-State,Associate Degree,4470,8940
+428,2021,West Virginia,Public In-State,Bachelor's Degree,11060,44240
+429,2021,West Virginia,Public In-State,Doctoral Degree,32718,163590
+430,2021,West Virginia,Public In-State,Master's Degree,26373,52746
+431,2021,West Virginia,Public Out-of-State,Associate Degree,9781,19562
+432,2021,West Virginia,Public Out-of-State,Bachelor's Degree,33535,134140
+433,2021,Wisconsin,Private,Bachelor's Degree,47063,188252
+434,2021,Wisconsin,Private,Doctoral Degree,55193,275965
+435,2021,Wisconsin,Private,Master's Degree,43318,86636
+436,2021,Wisconsin,Public In-State,Associate Degree,4534,9068
+437,2021,Wisconsin,Public In-State,Bachelor's Degree,9093,36372
+438,2021,Wisconsin,Public In-State,Doctoral Degree,35312,176560
+439,2021,Wisconsin,Public In-State,Master's Degree,26361,52722
+440,2021,Wisconsin,Public Out-of-State,Associate Degree,6552,13104
+441,2021,Wisconsin,Public Out-of-State,Bachelor's Degree,36063,144252
+442,2021,Wyoming,Private,Doctoral Degree,54462,272310
+443,2021,Wyoming,Private,Master's Degree,45489,90978
+444,2021,Wyoming,Public In-State,Associate Degree,3987,7974
+445,2021,Wyoming,Public In-State,Bachelor's Degree,9799,39196
+446,2021,Wyoming,Public In-State,Doctoral Degree,31982,159910
+447,2021,Wyoming,Public In-State,Master's Degree,26901,53802
+448,2021,Wyoming,Public Out-of-State,Associate Degree,9820,19640
+449,2021,Wyoming,Public Out-of-State,Bachelor's Degree,24509,98036
+450,2022,Alabama,Private,Associate Degree,27275,54550
+451,2022,Alabama,Private,Bachelor's Degree,54169,216676
+452,2022,Alabama,Private,Doctoral Degree,54510,272550
+453,2022,Alabama,Private,Master's Degree,41149,82298
+454,2022,Alabama,Public In-State,Associate Degree,12592,25184
+455,2022,Alabama,Public In-State,Bachelor's Degree,20861,83444
+456,2022,Alabama,Public In-State,Doctoral Degree,34536,172680
+457,2022,Alabama,Public In-State,Master's Degree,26745,53490
+458,2022,Alaska,Private,Associate Degree,26833,53666
+459,2022,Alaska,Private,Bachelor's Degree,51742,206968
+460,2022,Alaska,Private,Doctoral Degree,51016,255080
+461,2022,Alaska,Private,Master's Degree,42539,85078
+462,2022,Alaska,Public In-State,Associate Degree,14099,28198
+463,2022,Alaska,Public In-State,Bachelor's Degree,21079,84316
+464,2022,Alaska,Public In-State,Doctoral Degree,32623,163115
+465,2022,Alaska,Public In-State,Master's Degree,24886,49772
+466,2022,Arizona,Private,Associate Degree,28988,57976
+467,2022,Arizona,Private,Bachelor's Degree,53633,214532
+468,2022,Arizona,Private,Doctoral Degree,53109,265545
+469,2022,Arizona,Private,Master's Degree,46224,92448
+470,2022,Arizona,Public In-State,Associate Degree,13454,26908
+471,2022,Arizona,Public In-State,Bachelor's Degree,20419,81676
+472,2022,Arizona,Public In-State,Doctoral Degree,34250,171250
+473,2022,Arizona,Public In-State,Master's Degree,25560,51120
+474,2022,Arkansas,Private,Associate Degree,27734,55468
+475,2022,Arkansas,Private,Bachelor's Degree,56495,225980
+476,2022,Arkansas,Private,Doctoral Degree,58285,291425
+477,2022,Arkansas,Private,Master's Degree,43451,86902
+478,2022,Arkansas,Public In-State,Associate Degree,13767,27534
+479,2022,Arkansas,Public In-State,Bachelor's Degree,21373,85492
+480,2022,Arkansas,Public In-State,Doctoral Degree,34895,174475
+481,2022,Arkansas,Public In-State,Master's Degree,27005,54010
+482,2022,California,Private,Associate Degree,26595,53190
+483,2022,California,Private,Bachelor's Degree,53930,215720
+484,2022,California,Private,Doctoral Degree,52179,260895
+485,2022,California,Private,Master's Degree,43411,86822
+486,2022,California,Public In-State,Associate Degree,14051,28102
+487,2022,California,Public In-State,Bachelor's Degree,22659,90636
+488,2022,California,Public In-State,Doctoral Degree,31502,157510
+489,2022,California,Public In-State,Master's Degree,25028,50056
+490,2022,Colorado,Private,Associate Degree,29154,58308
+491,2022,Colorado,Private,Bachelor's Degree,55912,223648
+492,2022,Colorado,Private,Doctoral Degree,53152,265760
+493,2022,Colorado,Private,Master's Degree,45954,91908
+494,2022,Colorado,Public In-State,Associate Degree,12905,25810
+495,2022,Colorado,Public In-State,Bachelor's Degree,20771,83084
+496,2022,Colorado,Public In-State,Doctoral Degree,35558,177790
+497,2022,Colorado,Public In-State,Master's Degree,23935,47870
+498,2022,Connecticut,Private,Associate Degree,27631,55262
+499,2022,Connecticut,Private,Bachelor's Degree,53282,213128
+500,2022,Connecticut,Private,Doctoral Degree,56201,281005
+501,2022,Connecticut,Private,Master's Degree,47141,94282
+502,2022,Connecticut,Public In-State,Associate Degree,14005,28010
+503,2022,Connecticut,Public In-State,Bachelor's Degree,20799,83196
+504,2022,Connecticut,Public In-State,Doctoral Degree,36393,181965
+505,2022,Connecticut,Public In-State,Master's Degree,25267,50534
+506,2022,Delaware,Private,Associate Degree,27597,55194
+507,2022,Delaware,Private,Bachelor's Degree,51240,204960
+508,2022,Delaware,Private,Doctoral Degree,51790,258950
+509,2022,Delaware,Private,Master's Degree,43454,86908
+510,2022,Delaware,Public In-State,Associate Degree,13582,27164
+511,2022,Delaware,Public In-State,Bachelor's Degree,22079,88316
+512,2022,Delaware,Public In-State,Doctoral Degree,33451,167255
+513,2022,Delaware,Public In-State,Master's Degree,26473,52946
+514,2022,District of Columbia,Private,Associate Degree,27860,55720
+515,2022,District of Columbia,Private,Bachelor's Degree,51328,205312
+516,2022,District of Columbia,Private,Doctoral Degree,51171,255855
+517,2022,District of Columbia,Private,Master's Degree,48966,97932
+518,2022,District of Columbia,Public In-State,Associate Degree,13766,27532
+519,2022,District of Columbia,Public In-State,Bachelor's Degree,21410,85640
+520,2022,District of Columbia,Public In-State,Doctoral Degree,34021,170105
+521,2022,District of Columbia,Public In-State,Master's Degree,25379,50758
+522,2022,Florida,Private,Associate Degree,28668,57336
+523,2022,Florida,Private,Bachelor's Degree,49760,199040
+524,2022,Florida,Private,Doctoral Degree,55484,277420
+525,2022,Florida,Private,Master's Degree,47796,95592
+526,2022,Florida,Public In-State,Associate Degree,12782,25564
+527,2022,Florida,Public In-State,Bachelor's Degree,21395,85580
+528,2022,Florida,Public In-State,Doctoral Degree,36769,183845
+529,2022,Florida,Public In-State,Master's Degree,25238,50476
+530,2022,Georgia,Private,Associate Degree,26677,53354
+531,2022,Georgia,Private,Bachelor's Degree,55922,223688
+532,2022,Georgia,Private,Doctoral Degree,59092,295460
+533,2022,Georgia,Private,Master's Degree,41240,82480
+534,2022,Georgia,Public In-State,Associate Degree,13243,26486
+535,2022,Georgia,Public In-State,Bachelor's Degree,20820,83280
+536,2022,Georgia,Public In-State,Doctoral Degree,33856,169280
+537,2022,Georgia,Public In-State,Master's Degree,25317,50634
+538,2022,Hawaii,Private,Associate Degree,28866,57732
+539,2022,Hawaii,Private,Bachelor's Degree,54113,216452
+540,2022,Hawaii,Private,Doctoral Degree,57470,287350
+541,2022,Hawaii,Private,Master's Degree,45258,90516
+542,2022,Hawaii,Public In-State,Associate Degree,12565,25130
+543,2022,Hawaii,Public In-State,Bachelor's Degree,21000,84000
+544,2022,Hawaii,Public In-State,Doctoral Degree,32345,161725
+545,2022,Hawaii,Public In-State,Master's Degree,23901,47802
+546,2022,Idaho,Private,Associate Degree,26616,53232
+547,2022,Idaho,Private,Bachelor's Degree,51560,206240
+548,2022,Idaho,Private,Doctoral Degree,51459,257295
+549,2022,Idaho,Private,Master's Degree,42396,84792
+550,2022,Idaho,Public In-State,Associate Degree,13594,27188
+551,2022,Idaho,Public In-State,Bachelor's Degree,22745,90980
+552,2022,Idaho,Public In-State,Doctoral Degree,33733,168665
+553,2022,Idaho,Public In-State,Master's Degree,26701,53402
+554,2022,Illinois,Private,Associate Degree,29245,58490
+555,2022,Illinois,Private,Bachelor's Degree,51579,206316
+556,2022,Illinois,Private,Doctoral Degree,50214,251070
+557,2022,Illinois,Private,Master's Degree,43405,86810
+558,2022,Illinois,Public In-State,Associate Degree,13694,27388
+559,2022,Illinois,Public In-State,Bachelor's Degree,22235,88940
+560,2022,Illinois,Public In-State,Doctoral Degree,34390,171950
+561,2022,Illinois,Public In-State,Master's Degree,24970,49940
+562,2022,Indiana,Private,Associate Degree,29203,58406
+563,2022,Indiana,Private,Bachelor's Degree,54295,217180
+564,2022,Indiana,Private,Doctoral Degree,54245,271225
+565,2022,Indiana,Private,Master's Degree,42723,85446
+566,2022,Indiana,Public In-State,Associate Degree,14348,28696
+567,2022,Indiana,Public In-State,Bachelor's Degree,21154,84616
+568,2022,Indiana,Public In-State,Doctoral Degree,35060,175300
+569,2022,Indiana,Public In-State,Master's Degree,26236,52472
+570,2022,Iowa,Private,Associate Degree,29194,58388
+571,2022,Iowa,Private,Bachelor's Degree,55708,222832
+572,2022,Iowa,Private,Doctoral Degree,53003,265015
+573,2022,Iowa,Private,Master's Degree,41752,83504
+574,2022,Iowa,Public In-State,Associate Degree,13473,26946
+575,2022,Iowa,Public In-State,Bachelor's Degree,22503,90012
+576,2022,Iowa,Public In-State,Doctoral Degree,33197,165985
+577,2022,Iowa,Public In-State,Master's Degree,24280,48560
+578,2022,Kansas,Private,Associate Degree,28086,56172
+579,2022,Kansas,Private,Bachelor's Degree,52254,209016
+580,2022,Kansas,Private,Doctoral Degree,50585,252925
+581,2022,Kansas,Private,Master's Degree,47578,95156
+582,2022,Kansas,Public In-State,Associate Degree,13388,26776
+583,2022,Kansas,Public In-State,Bachelor's Degree,22328,89312
+584,2022,Kansas,Public In-State,Doctoral Degree,34656,173280
+585,2022,Kansas,Public In-State,Master's Degree,25114,50228
+586,2022,Kentucky,Private,Associate Degree,27550,55100
+587,2022,Kentucky,Private,Bachelor's Degree,49734,198936
+588,2022,Kentucky,Private,Doctoral Degree,55841,279205
+589,2022,Kentucky,Private,Master's Degree,45712,91424
+590,2022,Kentucky,Public In-State,Associate Degree,13403,26806
+591,2022,Kentucky,Public In-State,Bachelor's Degree,22051,88204
+592,2022,Kentucky,Public In-State,Doctoral Degree,34433,172165
+593,2022,Kentucky,Public In-State,Master's Degree,25637,51274
+594,2022,Louisiana,Private,Associate Degree,27351,54702
+595,2022,Louisiana,Private,Bachelor's Degree,51216,204864
+596,2022,Louisiana,Private,Doctoral Degree,57560,287800
+597,2022,Louisiana,Private,Master's Degree,48001,96002
+598,2022,Louisiana,Public In-State,Associate Degree,13723,27446
+599,2022,Louisiana,Public In-State,Bachelor's Degree,21828,87312
+600,2022,Louisiana,Public In-State,Doctoral Degree,35614,178070
+601,2022,Louisiana,Public In-State,Master's Degree,24957,49914
+602,2022,Maine,Private,Associate Degree,27314,54628
+603,2022,Maine,Private,Bachelor's Degree,53276,213104
+604,2022,Maine,Private,Doctoral Degree,55470,277350
+605,2022,Maine,Private,Master's Degree,41264,82528
+606,2022,Maine,Public In-State,Associate Degree,13402,26804
+607,2022,Maine,Public In-State,Bachelor's Degree,21898,87592
+608,2022,Maine,Public In-State,Doctoral Degree,32206,161030
+609,2022,Maine,Public In-State,Master's Degree,27073,54146
+610,2022,Maryland,Private,Associate Degree,27187,54374
+611,2022,Maryland,Private,Bachelor's Degree,50248,200992
+612,2022,Maryland,Private,Doctoral Degree,56446,282230
+613,2022,Maryland,Private,Master's Degree,43705,87410
+614,2022,Maryland,Public In-State,Associate Degree,12861,25722
+615,2022,Maryland,Public In-State,Bachelor's Degree,21462,85848
+616,2022,Maryland,Public In-State,Doctoral Degree,33563,167815
+617,2022,Maryland,Public In-State,Master's Degree,26093,52186
+618,2022,Massachusetts,Private,Associate Degree,26836,53672
+619,2022,Massachusetts,Private,Bachelor's Degree,53874,215496
+620,2022,Massachusetts,Private,Doctoral Degree,52773,263865
+621,2022,Massachusetts,Private,Master's Degree,42183,84366
+622,2022,Massachusetts,Public In-State,Associate Degree,13062,26124
+623,2022,Massachusetts,Public In-State,Bachelor's Degree,21113,84452
+624,2022,Massachusetts,Public In-State,Doctoral Degree,34634,173170
+625,2022,Massachusetts,Public In-State,Master's Degree,26648,53296
+626,2022,Michigan,Private,Associate Degree,28965,57930
+627,2022,Michigan,Private,Bachelor's Degree,53427,213708
+628,2022,Michigan,Private,Doctoral Degree,58574,292870
+629,2022,Michigan,Private,Master's Degree,44545,89090
+630,2022,Michigan,Public In-State,Associate Degree,13026,26052
+631,2022,Michigan,Public In-State,Bachelor's Degree,22700,90800
+632,2022,Michigan,Public In-State,Doctoral Degree,32254,161270
+633,2022,Michigan,Public In-State,Master's Degree,24209,48418
+634,2022,Minnesota,Private,Associate Degree,28087,56174
+635,2022,Minnesota,Private,Bachelor's Degree,55400,221600
+636,2022,Minnesota,Private,Doctoral Degree,54338,271690
+637,2022,Minnesota,Private,Master's Degree,47226,94452
+638,2022,Minnesota,Public In-State,Associate Degree,12636,25272
+639,2022,Minnesota,Public In-State,Bachelor's Degree,21854,87416
+640,2022,Minnesota,Public In-State,Doctoral Degree,32078,160390
+641,2022,Minnesota,Public In-State,Master's Degree,25451,50902
+642,2022,Mississippi,Private,Associate Degree,30175,60350
+643,2022,Mississippi,Private,Bachelor's Degree,54860,219440
+644,2022,Mississippi,Private,Doctoral Degree,54891,274455
+645,2022,Mississippi,Private,Master's Degree,41756,83512
+646,2022,Mississippi,Public In-State,Associate Degree,12870,25740
+647,2022,Mississippi,Public In-State,Bachelor's Degree,22318,89272
+648,2022,Mississippi,Public In-State,Doctoral Degree,33492,167460
+649,2022,Mississippi,Public In-State,Master's Degree,24367,48734
+650,2022,Missouri,Private,Associate Degree,27386,54772
+651,2022,Missouri,Private,Bachelor's Degree,51554,206216
+652,2022,Missouri,Private,Doctoral Degree,56674,283370
+653,2022,Missouri,Private,Master's Degree,45823,91646
+654,2022,Missouri,Public In-State,Associate Degree,12987,25974
+655,2022,Missouri,Public In-State,Bachelor's Degree,21390,85560
+656,2022,Missouri,Public In-State,Doctoral Degree,35008,175040
+657,2022,Missouri,Public In-State,Master's Degree,26201,52402
+658,2022,Montana,Private,Associate Degree,27194,54388
+659,2022,Montana,Private,Bachelor's Degree,55443,221772
+660,2022,Montana,Private,Doctoral Degree,55989,279945
+661,2022,Montana,Private,Master's Degree,44413,88826
+662,2022,Montana,Public In-State,Associate Degree,13374,26748
+663,2022,Montana,Public In-State,Bachelor's Degree,21521,86084
+664,2022,Montana,Public In-State,Doctoral Degree,34332,171660
+665,2022,Montana,Public In-State,Master's Degree,25956,51912
+666,2022,Nebraska,Private,Associate Degree,28520,57040
+667,2022,Nebraska,Private,Bachelor's Degree,51859,207436
+668,2022,Nebraska,Private,Doctoral Degree,53383,266915
+669,2022,Nebraska,Private,Master's Degree,43688,87376
+670,2022,Nebraska,Public In-State,Associate Degree,12884,25768
+671,2022,Nebraska,Public In-State,Bachelor's Degree,21549,86196
+672,2022,Nebraska,Public In-State,Doctoral Degree,34833,174165
+673,2022,Nebraska,Public In-State,Master's Degree,24415,48830
+674,2022,Nevada,Private,Associate Degree,25997,51994
+675,2022,Nevada,Private,Bachelor's Degree,53159,212636
+676,2022,Nevada,Private,Doctoral Degree,57953,289765
+677,2022,Nevada,Private,Master's Degree,47389,94778
+678,2022,Nevada,Public In-State,Associate Degree,12990,25980
+679,2022,Nevada,Public In-State,Bachelor's Degree,21750,87000
+680,2022,Nevada,Public In-State,Doctoral Degree,35861,179305
+681,2022,Nevada,Public In-State,Master's Degree,24256,48512
+682,2022,New Hampshire,Private,Associate Degree,28506,57012
+683,2022,New Hampshire,Private,Bachelor's Degree,55374,221496
+684,2022,New Hampshire,Private,Doctoral Degree,53880,269400
+685,2022,New Hampshire,Private,Master's Degree,44169,88338
+686,2022,New Hampshire,Public In-State,Associate Degree,13565,27130
+687,2022,New Hampshire,Public In-State,Bachelor's Degree,21316,85264
+688,2022,New Hampshire,Public In-State,Doctoral Degree,35130,175650
+689,2022,New Hampshire,Public In-State,Master's Degree,25733,51466
+690,2022,New Jersey,Private,Associate Degree,28227,56454
+691,2022,New Jersey,Private,Bachelor's Degree,52837,211348
+692,2022,New Jersey,Private,Doctoral Degree,52277,261385
+693,2022,New Jersey,Private,Master's Degree,41745,83490
+694,2022,New Jersey,Public In-State,Associate Degree,13459,26918
+695,2022,New Jersey,Public In-State,Bachelor's Degree,21457,85828
+696,2022,New Jersey,Public In-State,Doctoral Degree,33144,165720
+697,2022,New Jersey,Public In-State,Master's Degree,24096,48192
+698,2022,New Mexico,Private,Associate Degree,27646,55292
+699,2022,New Mexico,Private,Bachelor's Degree,53091,212364
+700,2022,New Mexico,Private,Doctoral Degree,53515,267575
+701,2022,New Mexico,Private,Master's Degree,49106,98212
+702,2022,New Mexico,Public In-State,Associate Degree,13746,27492
+703,2022,New Mexico,Public In-State,Bachelor's Degree,20661,82644
+704,2022,New Mexico,Public In-State,Doctoral Degree,36403,182015
+705,2022,New Mexico,Public In-State,Master's Degree,25131,50262
+706,2022,New York,Private,Associate Degree,27042,54084
+707,2022,New York,Private,Bachelor's Degree,53924,215696
+708,2022,New York,Private,Doctoral Degree,55171,275855
+709,2022,New York,Private,Master's Degree,46801,93602
+710,2022,New York,Public In-State,Associate Degree,14137,28274
+711,2022,New York,Public In-State,Bachelor's Degree,20814,83256
+712,2022,New York,Public In-State,Doctoral Degree,34111,170555
+713,2022,New York,Public In-State,Master's Degree,27869,55738
+714,2022,North Carolina,Private,Associate Degree,27649,55298
+715,2022,North Carolina,Private,Bachelor's Degree,52341,209364
+716,2022,North Carolina,Private,Doctoral Degree,53416,267080
+717,2022,North Carolina,Private,Master's Degree,43400,86800
+718,2022,North Carolina,Public In-State,Associate Degree,12978,25956
+719,2022,North Carolina,Public In-State,Bachelor's Degree,21885,87540
+720,2022,North Carolina,Public In-State,Doctoral Degree,34648,173240
+721,2022,North Carolina,Public In-State,Master's Degree,26353,52706
+722,2022,North Dakota,Private,Associate Degree,27652,55304
+723,2022,North Dakota,Private,Bachelor's Degree,53344,213376
+724,2022,North Dakota,Private,Doctoral Degree,55043,275215
+725,2022,North Dakota,Private,Master's Degree,43848,87696
+726,2022,North Dakota,Public In-State,Associate Degree,13206,26412
+727,2022,North Dakota,Public In-State,Bachelor's Degree,22160,88640
+728,2022,North Dakota,Public In-State,Doctoral Degree,36323,181615
+729,2022,North Dakota,Public In-State,Master's Degree,25670,51340
+730,2022,Ohio,Private,Associate Degree,27658,55316
+731,2022,Ohio,Private,Bachelor's Degree,54278,217112
+732,2022,Ohio,Private,Doctoral Degree,57310,286550
+733,2022,Ohio,Private,Master's Degree,46127,92254
+734,2022,Ohio,Public In-State,Associate Degree,13107,26214
+735,2022,Ohio,Public In-State,Bachelor's Degree,22320,89280
+736,2022,Ohio,Public In-State,Doctoral Degree,32997,164985
+737,2022,Ohio,Public In-State,Master's Degree,23208,46416
+738,2022,Oklahoma,Private,Associate Degree,27700,55400
+739,2022,Oklahoma,Private,Bachelor's Degree,54153,216612
+740,2022,Oklahoma,Private,Doctoral Degree,51354,256770
+741,2022,Oklahoma,Private,Master's Degree,43123,86246
+742,2022,Oklahoma,Public In-State,Associate Degree,13664,27328
+743,2022,Oklahoma,Public In-State,Bachelor's Degree,20604,82416
+744,2022,Oklahoma,Public In-State,Doctoral Degree,33991,169955
+745,2022,Oklahoma,Public In-State,Master's Degree,25378,50756
+746,2022,Oregon,Private,Associate Degree,28068,56136
+747,2022,Oregon,Private,Bachelor's Degree,55025,220100
+748,2022,Oregon,Private,Doctoral Degree,56882,284410
+749,2022,Oregon,Private,Master's Degree,45454,90908
+750,2022,Oregon,Public In-State,Associate Degree,13132,26264
+751,2022,Oregon,Public In-State,Bachelor's Degree,20774,83096
+752,2022,Oregon,Public In-State,Doctoral Degree,32770,163850
+753,2022,Oregon,Public In-State,Master's Degree,26156,52312
+754,2022,Pennsylvania,Private,Associate Degree,28202,56404
+755,2022,Pennsylvania,Private,Bachelor's Degree,51547,206188
+756,2022,Pennsylvania,Private,Doctoral Degree,51577,257885
+757,2022,Pennsylvania,Private,Master's Degree,43722,87444
+758,2022,Pennsylvania,Public In-State,Associate Degree,13422,26844
+759,2022,Pennsylvania,Public In-State,Bachelor's Degree,21877,87508
+760,2022,Pennsylvania,Public In-State,Doctoral Degree,33500,167500
+761,2022,Pennsylvania,Public In-State,Master's Degree,26139,52278
+762,2022,Rhode Island,Private,Associate Degree,28116,56232
+763,2022,Rhode Island,Private,Bachelor's Degree,52494,209976
+764,2022,Rhode Island,Private,Doctoral Degree,56634,283170
+765,2022,Rhode Island,Private,Master's Degree,46237,92474
+766,2022,Rhode Island,Public In-State,Associate Degree,14048,28096
+767,2022,Rhode Island,Public In-State,Bachelor's Degree,22714,90856
+768,2022,Rhode Island,Public In-State,Doctoral Degree,30628,153140
+769,2022,Rhode Island,Public In-State,Master's Degree,25946,51892
+770,2022,South Carolina,Private,Associate Degree,27978,55956
+771,2022,South Carolina,Private,Bachelor's Degree,52058,208232
+772,2022,South Carolina,Private,Doctoral Degree,51798,258990
+773,2022,South Carolina,Private,Master's Degree,45875,91750
+774,2022,South Carolina,Public In-State,Associate Degree,13181,26362
+775,2022,South Carolina,Public In-State,Bachelor's Degree,21481,85924
+776,2022,South Carolina,Public In-State,Doctoral Degree,34940,174700
+777,2022,South Carolina,Public In-State,Master's Degree,25364,50728
+778,2022,South Dakota,Private,Associate Degree,27415,54830
+779,2022,South Dakota,Private,Bachelor's Degree,57097,228388
+780,2022,South Dakota,Private,Doctoral Degree,51779,258895
+781,2022,South Dakota,Private,Master's Degree,46564,93128
+782,2022,South Dakota,Public In-State,Associate Degree,13219,26438
+783,2022,South Dakota,Public In-State,Bachelor's Degree,22148,88592
+784,2022,South Dakota,Public In-State,Doctoral Degree,32637,163185
+785,2022,South Dakota,Public In-State,Master's Degree,27258,54516
+786,2022,Tennessee,Private,Associate Degree,27899,55798
+787,2022,Tennessee,Private,Bachelor's Degree,55795,223180
+788,2022,Tennessee,Private,Doctoral Degree,51897,259485
+789,2022,Tennessee,Private,Master's Degree,44262,88524
+790,2022,Tennessee,Public In-State,Associate Degree,13133,26266
+791,2022,Tennessee,Public In-State,Bachelor's Degree,21652,86608
+792,2022,Tennessee,Public In-State,Doctoral Degree,32983,164915
+793,2022,Tennessee,Public In-State,Master's Degree,23618,47236
+794,2022,Texas,Private,Associate Degree,27213,54426
+795,2022,Texas,Private,Bachelor's Degree,52450,209800
+796,2022,Texas,Private,Doctoral Degree,54627,273135
+797,2022,Texas,Private,Master's Degree,45539,91078
+798,2022,Texas,Public In-State,Associate Degree,13610,27220
+799,2022,Texas,Public In-State,Bachelor's Degree,20974,83896
+800,2022,Texas,Public In-State,Doctoral Degree,34327,171635
+801,2022,Texas,Public In-State,Master's Degree,24192,48384
+802,2022,Utah,Private,Associate Degree,28009,56018
+803,2022,Utah,Private,Bachelor's Degree,54990,219960
+804,2022,Utah,Private,Doctoral Degree,54606,273030
+805,2022,Utah,Private,Master's Degree,45326,90652
+806,2022,Utah,Public In-State,Associate Degree,14226,28452
+807,2022,Utah,Public In-State,Bachelor's Degree,21179,84716
+808,2022,Utah,Public In-State,Doctoral Degree,32126,160630
+809,2022,Utah,Public In-State,Master's Degree,25988,51976
+810,2022,Vermont,Private,Associate Degree,29076,58152
+811,2022,Vermont,Private,Bachelor's Degree,56706,226824
+812,2022,Vermont,Private,Doctoral Degree,53963,269815
+813,2022,Vermont,Private,Master's Degree,47671,95342
+814,2022,Vermont,Public In-State,Associate Degree,13665,27330
+815,2022,Vermont,Public In-State,Bachelor's Degree,21137,84548
+816,2022,Vermont,Public In-State,Doctoral Degree,31813,159065
+817,2022,Vermont,Public In-State,Master's Degree,25928,51856
+818,2022,Virginia,Private,Associate Degree,27551,55102
+819,2022,Virginia,Private,Bachelor's Degree,53293,213172
+820,2022,Virginia,Private,Doctoral Degree,54985,274925
+821,2022,Virginia,Private,Master's Degree,44868,89736
+822,2022,Virginia,Public In-State,Associate Degree,13513,27026
+823,2022,Virginia,Public In-State,Bachelor's Degree,21633,86532
+824,2022,Virginia,Public In-State,Doctoral Degree,34529,172645
+825,2022,Virginia,Public In-State,Master's Degree,24010,48020
+826,2022,Washington,Private,Associate Degree,27846,55692
+827,2022,Washington,Private,Bachelor's Degree,50649,202596
+828,2022,Washington,Private,Doctoral Degree,55167,275835
+829,2022,Washington,Private,Master's Degree,44415,88830
+830,2022,Washington,Public In-State,Associate Degree,13830,27660
+831,2022,Washington,Public In-State,Bachelor's Degree,21653,86612
+832,2022,Washington,Public In-State,Doctoral Degree,31942,159710
+833,2022,Washington,Public In-State,Master's Degree,26602,53204
+834,2022,West Virginia,Private,Associate Degree,28532,57064
+835,2022,West Virginia,Private,Bachelor's Degree,50836,203344
+836,2022,West Virginia,Private,Doctoral Degree,52363,261815
+837,2022,West Virginia,Private,Master's Degree,44108,88216
+838,2022,West Virginia,Public In-State,Associate Degree,12492,24984
+839,2022,West Virginia,Public In-State,Bachelor's Degree,20385,81540
+840,2022,West Virginia,Public In-State,Doctoral Degree,31996,159980
+841,2022,West Virginia,Public In-State,Master's Degree,25769,51538
+842,2022,Wisconsin,Private,Associate Degree,28172,56344
+843,2022,Wisconsin,Private,Bachelor's Degree,54859,219436
+844,2022,Wisconsin,Private,Doctoral Degree,50987,254935
+845,2022,Wisconsin,Private,Master's Degree,41849,83698
+846,2022,Wisconsin,Public In-State,Associate Degree,13634,27268
+847,2022,Wisconsin,Public In-State,Bachelor's Degree,21529,86116
+848,2022,Wisconsin,Public In-State,Doctoral Degree,33793,168965
+849,2022,Wisconsin,Public In-State,Master's Degree,26851,53702
+850,2022,Wyoming,Private,Associate Degree,28849,57698
+851,2022,Wyoming,Private,Bachelor's Degree,51324,205296
+852,2022,Wyoming,Private,Doctoral Degree,57415,287075
+853,2022,Wyoming,Private,Master's Degree,47840,95680
+854,2022,Wyoming,Public In-State,Associate Degree,14004,28008
+855,2022,Wyoming,Public In-State,Bachelor's Degree,20710,82840
+856,2022,Wyoming,Public In-State,Doctoral Degree,32728,163640
+857,2022,Wyoming,Public In-State,Master's Degree,26484,52968
+858,2023,Alabama,Private,Associate Degree,28678,57356
+859,2023,Alabama,Private,Bachelor's Degree,54035,216140
+860,2023,Alabama,Private,Doctoral Degree,52006,260030
+861,2023,Alabama,Private,Master's Degree,45505,91010
+862,2023,Alabama,Public In-State,Associate Degree,13324,26648
+863,2023,Alabama,Public In-State,Bachelor's Degree,21443,85772
+864,2023,Alabama,Public In-State,Doctoral Degree,32642,163210
+865,2023,Alabama,Public In-State,Master's Degree,25712,51424
+866,2023,Alaska,Private,Associate Degree,29217,58434
+867,2023,Alaska,Private,Bachelor's Degree,54736,218944
+868,2023,Alaska,Private,Doctoral Degree,58653,293265
+869,2023,Alaska,Private,Master's Degree,45338,90676
+870,2023,Alaska,Public In-State,Associate Degree,12861,25722
+871,2023,Alaska,Public In-State,Bachelor's Degree,21248,84992
+872,2023,Alaska,Public In-State,Doctoral Degree,34619,173095
+873,2023,Alaska,Public In-State,Master's Degree,26397,52794
+874,2023,Arizona,Private,Associate Degree,28649,57298
+875,2023,Arizona,Private,Bachelor's Degree,53212,212848
+876,2023,Arizona,Private,Doctoral Degree,50536,252680
+877,2023,Arizona,Private,Master's Degree,46959,93918
+878,2023,Arizona,Public In-State,Associate Degree,13800,27600
+879,2023,Arizona,Public In-State,Bachelor's Degree,21921,87684
+880,2023,Arizona,Public In-State,Doctoral Degree,35545,177725
+881,2023,Arizona,Public In-State,Master's Degree,25726,51452
+882,2023,Arkansas,Private,Associate Degree,27343,54686
+883,2023,Arkansas,Private,Bachelor's Degree,55454,221816
+884,2023,Arkansas,Private,Doctoral Degree,58034,290170
+885,2023,Arkansas,Private,Master's Degree,46867,93734
+886,2023,Arkansas,Public In-State,Associate Degree,13875,27750
+887,2023,Arkansas,Public In-State,Bachelor's Degree,22496,89984
+888,2023,Arkansas,Public In-State,Doctoral Degree,32294,161470
+889,2023,Arkansas,Public In-State,Master's Degree,25303,50606
+890,2023,California,Private,Associate Degree,29293,58586
+891,2023,California,Private,Bachelor's Degree,50204,200816
+892,2023,California,Private,Doctoral Degree,53137,265685
+893,2023,California,Private,Master's Degree,45835,91670
+894,2023,California,Public In-State,Associate Degree,13400,26800
+895,2023,California,Public In-State,Bachelor's Degree,20616,82464
+896,2023,California,Public In-State,Doctoral Degree,36532,182660
+897,2023,California,Public In-State,Master's Degree,25598,51196
+898,2023,Colorado,Private,Associate Degree,29279,58558
+899,2023,Colorado,Private,Bachelor's Degree,53327,213308
+900,2023,Colorado,Private,Doctoral Degree,53948,269740
+901,2023,Colorado,Private,Master's Degree,42785,85570
+902,2023,Colorado,Public In-State,Associate Degree,13591,27182
+903,2023,Colorado,Public In-State,Bachelor's Degree,22257,89028
+904,2023,Colorado,Public In-State,Doctoral Degree,35593,177965
+905,2023,Colorado,Public In-State,Master's Degree,25463,50926
+906,2023,Connecticut,Private,Associate Degree,28161,56322
+907,2023,Connecticut,Private,Bachelor's Degree,51097,204388
+908,2023,Connecticut,Private,Doctoral Degree,51612,258060
+909,2023,Connecticut,Private,Master's Degree,44419,88838
+910,2023,Connecticut,Public In-State,Associate Degree,13469,26938
+911,2023,Connecticut,Public In-State,Bachelor's Degree,20354,81416
+912,2023,Connecticut,Public In-State,Doctoral Degree,36800,184000
+913,2023,Connecticut,Public In-State,Master's Degree,25038,50076
+914,2023,Delaware,Private,Associate Degree,29086,58172
+915,2023,Delaware,Private,Bachelor's Degree,54867,219468
+916,2023,Delaware,Private,Doctoral Degree,57893,289465
+917,2023,Delaware,Private,Master's Degree,48425,96850
+918,2023,Delaware,Public In-State,Associate Degree,13014,26028
+919,2023,Delaware,Public In-State,Bachelor's Degree,21640,86560
+920,2023,Delaware,Public In-State,Doctoral Degree,35002,175010
+921,2023,Delaware,Public In-State,Master's Degree,26623,53246
+922,2023,District of Columbia,Private,Associate Degree,29679,59358
+923,2023,District of Columbia,Private,Bachelor's Degree,51867,207468
+924,2023,District of Columbia,Private,Doctoral Degree,52044,260220
+925,2023,District of Columbia,Private,Master's Degree,41339,82678
+926,2023,District of Columbia,Public In-State,Associate Degree,13495,26990
+927,2023,District of Columbia,Public In-State,Bachelor's Degree,23080,92320
+928,2023,District of Columbia,Public In-State,Doctoral Degree,35101,175505
+929,2023,District of Columbia,Public In-State,Master's Degree,24742,49484
+930,2023,Florida,Private,Associate Degree,28026,56052
+931,2023,Florida,Private,Bachelor's Degree,50664,202656
+932,2023,Florida,Private,Doctoral Degree,58078,290390
+933,2023,Florida,Private,Master's Degree,44979,89958
+934,2023,Florida,Public In-State,Associate Degree,13596,27192
+935,2023,Florida,Public In-State,Bachelor's Degree,20949,83796
+936,2023,Florida,Public In-State,Doctoral Degree,32873,164365
+937,2023,Florida,Public In-State,Master's Degree,24641,49282
+938,2023,Georgia,Private,Associate Degree,27503,55006
+939,2023,Georgia,Private,Bachelor's Degree,52209,208836
+940,2023,Georgia,Private,Doctoral Degree,59296,296480
+941,2023,Georgia,Private,Master's Degree,42101,84202
+942,2023,Georgia,Public In-State,Associate Degree,12415,24830
+943,2023,Georgia,Public In-State,Bachelor's Degree,21805,87220
+944,2023,Georgia,Public In-State,Doctoral Degree,34075,170375
+945,2023,Georgia,Public In-State,Master's Degree,23731,47462
+946,2023,Hawaii,Private,Associate Degree,26915,53830
+947,2023,Hawaii,Private,Bachelor's Degree,51368,205472
+948,2023,Hawaii,Private,Doctoral Degree,55164,275820
+949,2023,Hawaii,Private,Master's Degree,43630,87260
+950,2023,Hawaii,Public In-State,Associate Degree,13453,26906
+951,2023,Hawaii,Public In-State,Bachelor's Degree,20557,82228
+952,2023,Hawaii,Public In-State,Doctoral Degree,32126,160630
+953,2023,Hawaii,Public In-State,Master's Degree,25597,51194
+954,2023,Idaho,Private,Associate Degree,28100,56200
+955,2023,Idaho,Private,Bachelor's Degree,51449,205796
+956,2023,Idaho,Private,Doctoral Degree,55704,278520
+957,2023,Idaho,Private,Master's Degree,43190,86380
+958,2023,Idaho,Public In-State,Associate Degree,13368,26736
+959,2023,Idaho,Public In-State,Bachelor's Degree,22075,88300
+960,2023,Idaho,Public In-State,Doctoral Degree,37324,186620
+961,2023,Idaho,Public In-State,Master's Degree,25218,50436
+962,2023,Illinois,Private,Associate Degree,27789,55578
+963,2023,Illinois,Private,Bachelor's Degree,53700,214800
+964,2023,Illinois,Private,Doctoral Degree,56061,280305
+965,2023,Illinois,Private,Master's Degree,44804,89608
+966,2023,Illinois,Public In-State,Associate Degree,13437,26874
+967,2023,Illinois,Public In-State,Bachelor's Degree,21143,84572
+968,2023,Illinois,Public In-State,Doctoral Degree,35102,175510
+969,2023,Illinois,Public In-State,Master's Degree,25029,50058
+970,2023,Indiana,Private,Associate Degree,27584,55168
+971,2023,Indiana,Private,Bachelor's Degree,53330,213320
+972,2023,Indiana,Private,Doctoral Degree,58263,291315
+973,2023,Indiana,Private,Master's Degree,43947,87894
+974,2023,Indiana,Public In-State,Associate Degree,13110,26220
+975,2023,Indiana,Public In-State,Bachelor's Degree,21949,87796
+976,2023,Indiana,Public In-State,Doctoral Degree,32800,164000
+977,2023,Indiana,Public In-State,Master's Degree,24307,48614
+978,2023,Iowa,Private,Associate Degree,28600,57200
+979,2023,Iowa,Private,Bachelor's Degree,53373,213492
+980,2023,Iowa,Private,Doctoral Degree,56982,284910
+981,2023,Iowa,Private,Master's Degree,44046,88092
+982,2023,Iowa,Public In-State,Associate Degree,12943,25886
+983,2023,Iowa,Public In-State,Bachelor's Degree,21348,85392
+984,2023,Iowa,Public In-State,Doctoral Degree,32487,162435
+985,2023,Iowa,Public In-State,Master's Degree,25240,50480
+986,2023,Kansas,Private,Associate Degree,28106,56212
+987,2023,Kansas,Private,Bachelor's Degree,54828,219312
+988,2023,Kansas,Private,Doctoral Degree,51718,258590
+989,2023,Kansas,Private,Master's Degree,46285,92570
+990,2023,Kansas,Public In-State,Associate Degree,13317,26634
+991,2023,Kansas,Public In-State,Bachelor's Degree,20786,83144
+992,2023,Kansas,Public In-State,Doctoral Degree,34901,174505
+993,2023,Kansas,Public In-State,Master's Degree,26521,53042
+994,2023,Kentucky,Private,Associate Degree,29551,59102
+995,2023,Kentucky,Private,Bachelor's Degree,51988,207952
+996,2023,Kentucky,Private,Doctoral Degree,55742,278710
+997,2023,Kentucky,Private,Master's Degree,43391,86782
+998,2023,Kentucky,Public In-State,Associate Degree,13149,26298
+999,2023,Kentucky,Public In-State,Bachelor's Degree,21246,84984
+1000,2023,Kentucky,Public In-State,Doctoral Degree,32760,163800
+1001,2023,Kentucky,Public In-State,Master's Degree,23201,46402
+1002,2023,Louisiana,Private,Associate Degree,28087,56174
+1003,2023,Louisiana,Private,Bachelor's Degree,50100,200400
+1004,2023,Louisiana,Private,Doctoral Degree,55570,277850
+1005,2023,Louisiana,Private,Master's Degree,46917,93834
+1006,2023,Louisiana,Public In-State,Associate Degree,13402,26804
+1007,2023,Louisiana,Public In-State,Bachelor's Degree,21258,85032
+1008,2023,Louisiana,Public In-State,Doctoral Degree,35568,177840
+1009,2023,Louisiana,Public In-State,Master's Degree,26829,53658
+1010,2023,Maine,Private,Associate Degree,29182,58364
+1011,2023,Maine,Private,Bachelor's Degree,54444,217776
+1012,2023,Maine,Private,Doctoral Degree,56847,284235
+1013,2023,Maine,Private,Master's Degree,45696,91392
+1014,2023,Maine,Public In-State,Associate Degree,14138,28276
+1015,2023,Maine,Public In-State,Bachelor's Degree,21674,86696
+1016,2023,Maine,Public In-State,Doctoral Degree,32229,161145
+1017,2023,Maine,Public In-State,Master's Degree,25406,50812
+1018,2023,Maryland,Private,Associate Degree,26906,53812
+1019,2023,Maryland,Private,Bachelor's Degree,53918,215672
+1020,2023,Maryland,Private,Doctoral Degree,57312,286560
+1021,2023,Maryland,Private,Master's Degree,47916,95832
+1022,2023,Maryland,Public In-State,Associate Degree,14075,28150
+1023,2023,Maryland,Public In-State,Bachelor's Degree,21570,86280
+1024,2023,Maryland,Public In-State,Doctoral Degree,34220,171100
+1025,2023,Maryland,Public In-State,Master's Degree,27098,54196
+1026,2023,Massachusetts,Private,Associate Degree,28387,56774
+1027,2023,Massachusetts,Private,Bachelor's Degree,50122,200488
+1028,2023,Massachusetts,Private,Doctoral Degree,55766,278830
+1029,2023,Massachusetts,Private,Master's Degree,48187,96374
+1030,2023,Massachusetts,Public In-State,Associate Degree,12991,25982
+1031,2023,Massachusetts,Public In-State,Bachelor's Degree,21690,86760
+1032,2023,Massachusetts,Public In-State,Doctoral Degree,32216,161080
+1033,2023,Massachusetts,Public In-State,Master's Degree,23593,47186
+1034,2023,Michigan,Private,Associate Degree,27185,54370
+1035,2023,Michigan,Private,Bachelor's Degree,53893,215572
+1036,2023,Michigan,Private,Doctoral Degree,53270,266350
+1037,2023,Michigan,Private,Master's Degree,43630,87260
+1038,2023,Michigan,Public In-State,Associate Degree,13833,27666
+1039,2023,Michigan,Public In-State,Bachelor's Degree,22241,88964
+1040,2023,Michigan,Public In-State,Doctoral Degree,35650,178250
+1041,2023,Michigan,Public In-State,Master's Degree,24286,48572
+1042,2023,Minnesota,Private,Associate Degree,27115,54230
+1043,2023,Minnesota,Private,Bachelor's Degree,51937,207748
+1044,2023,Minnesota,Private,Doctoral Degree,52964,264820
+1045,2023,Minnesota,Private,Master's Degree,46022,92044
+1046,2023,Minnesota,Public In-State,Associate Degree,14248,28496
+1047,2023,Minnesota,Public In-State,Bachelor's Degree,21959,87836
+1048,2023,Minnesota,Public In-State,Doctoral Degree,30801,154005
+1049,2023,Minnesota,Public In-State,Master's Degree,25845,51690
+1050,2023,Mississippi,Private,Associate Degree,28269,56538
+1051,2023,Mississippi,Private,Bachelor's Degree,55554,222216
+1052,2023,Mississippi,Private,Doctoral Degree,52665,263325
+1053,2023,Mississippi,Private,Master's Degree,46005,92010
+1054,2023,Mississippi,Public In-State,Associate Degree,12506,25012
+1055,2023,Mississippi,Public In-State,Bachelor's Degree,20623,82492
+1056,2023,Mississippi,Public In-State,Doctoral Degree,34806,174030
+1057,2023,Mississippi,Public In-State,Master's Degree,24370,48740
+1058,2023,Missouri,Private,Associate Degree,27193,54386
+1059,2023,Missouri,Private,Bachelor's Degree,53065,212260
+1060,2023,Missouri,Private,Doctoral Degree,56332,281660
+1061,2023,Missouri,Private,Master's Degree,44014,88028
+1062,2023,Missouri,Public In-State,Associate Degree,12998,25996
+1063,2023,Missouri,Public In-State,Bachelor's Degree,21674,86696
+1064,2023,Missouri,Public In-State,Doctoral Degree,33454,167270
+1065,2023,Missouri,Public In-State,Master's Degree,25639,51278
+1066,2023,Montana,Private,Associate Degree,28038,56076
+1067,2023,Montana,Private,Bachelor's Degree,56027,224108
+1068,2023,Montana,Private,Doctoral Degree,54007,270035
+1069,2023,Montana,Private,Master's Degree,46953,93906
+1070,2023,Montana,Public In-State,Associate Degree,12969,25938
+1071,2023,Montana,Public In-State,Bachelor's Degree,22242,88968
+1072,2023,Montana,Public In-State,Doctoral Degree,33559,167795
+1073,2023,Montana,Public In-State,Master's Degree,27079,54158
+1074,2023,Nebraska,Private,Associate Degree,28195,56390
+1075,2023,Nebraska,Private,Bachelor's Degree,53680,214720
+1076,2023,Nebraska,Private,Doctoral Degree,53202,266010
+1077,2023,Nebraska,Private,Master's Degree,47210,94420
+1078,2023,Nebraska,Public In-State,Associate Degree,12958,25916
+1079,2023,Nebraska,Public In-State,Bachelor's Degree,21812,87248
+1080,2023,Nebraska,Public In-State,Doctoral Degree,32542,162710
+1081,2023,Nebraska,Public In-State,Master's Degree,26182,52364
+1082,2023,Nevada,Private,Associate Degree,27977,55954
+1083,2023,Nevada,Private,Bachelor's Degree,55073,220292
+1084,2023,Nevada,Private,Doctoral Degree,55893,279465
+1085,2023,Nevada,Private,Master's Degree,46722,93444
+1086,2023,Nevada,Public In-State,Associate Degree,13316,26632
+1087,2023,Nevada,Public In-State,Bachelor's Degree,21849,87396
+1088,2023,Nevada,Public In-State,Doctoral Degree,35536,177680
+1089,2023,Nevada,Public In-State,Master's Degree,25043,50086
+1090,2023,New Hampshire,Private,Associate Degree,26228,52456
+1091,2023,New Hampshire,Private,Bachelor's Degree,54775,219100
+1092,2023,New Hampshire,Private,Doctoral Degree,56712,283560
+1093,2023,New Hampshire,Private,Master's Degree,47198,94396
+1094,2023,New Hampshire,Public In-State,Associate Degree,13681,27362
+1095,2023,New Hampshire,Public In-State,Bachelor's Degree,20678,82712
+1096,2023,New Hampshire,Public In-State,Doctoral Degree,32693,163465
+1097,2023,New Hampshire,Public In-State,Master's Degree,25950,51900
+1098,2023,New Jersey,Private,Associate Degree,27161,54322
+1099,2023,New Jersey,Private,Bachelor's Degree,51417,205668
+1100,2023,New Jersey,Private,Doctoral Degree,54169,270845
+1101,2023,New Jersey,Private,Master's Degree,43601,87202
+1102,2023,New Jersey,Public In-State,Associate Degree,13516,27032
+1103,2023,New Jersey,Public In-State,Bachelor's Degree,22684,90736
+1104,2023,New Jersey,Public In-State,Doctoral Degree,33527,167635
+1105,2023,New Jersey,Public In-State,Master's Degree,24042,48084
+1106,2023,New Mexico,Private,Associate Degree,27299,54598
+1107,2023,New Mexico,Private,Bachelor's Degree,53452,213808
+1108,2023,New Mexico,Private,Doctoral Degree,55532,277660
+1109,2023,New Mexico,Private,Master's Degree,46396,92792
+1110,2023,New Mexico,Public In-State,Associate Degree,13300,26600
+1111,2023,New Mexico,Public In-State,Bachelor's Degree,21597,86388
+1112,2023,New Mexico,Public In-State,Doctoral Degree,31720,158600
+1113,2023,New Mexico,Public In-State,Master's Degree,25931,51862
+1114,2023,New York,Private,Associate Degree,28028,56056
+1115,2023,New York,Private,Bachelor's Degree,53282,213128
+1116,2023,New York,Private,Doctoral Degree,55603,278015
+1117,2023,New York,Private,Master's Degree,44651,89302
+1118,2023,New York,Public In-State,Associate Degree,13183,26366
+1119,2023,New York,Public In-State,Bachelor's Degree,22250,89000
+1120,2023,New York,Public In-State,Doctoral Degree,34770,173850
+1121,2023,New York,Public In-State,Master's Degree,26892,53784
+1122,2023,North Carolina,Private,Associate Degree,27589,55178
+1123,2023,North Carolina,Private,Bachelor's Degree,53178,212712
+1124,2023,North Carolina,Private,Doctoral Degree,58199,290995
+1125,2023,North Carolina,Private,Master's Degree,48192,96384
+1126,2023,North Carolina,Public In-State,Associate Degree,13425,26850
+1127,2023,North Carolina,Public In-State,Bachelor's Degree,21617,86468
+1128,2023,North Carolina,Public In-State,Doctoral Degree,33609,168045
+1129,2023,North Carolina,Public In-State,Master's Degree,26405,52810
+1130,2023,North Dakota,Private,Associate Degree,29904,59808
+1131,2023,North Dakota,Private,Bachelor's Degree,55558,222232
+1132,2023,North Dakota,Private,Doctoral Degree,56416,282080
+1133,2023,North Dakota,Private,Master's Degree,44491,88982
+1134,2023,North Dakota,Public In-State,Associate Degree,13010,26020
+1135,2023,North Dakota,Public In-State,Bachelor's Degree,21127,84508
+1136,2023,North Dakota,Public In-State,Doctoral Degree,33001,165005
+1137,2023,North Dakota,Public In-State,Master's Degree,24513,49026
+1138,2023,Ohio,Private,Associate Degree,27248,54496
+1139,2023,Ohio,Private,Bachelor's Degree,56876,227504
+1140,2023,Ohio,Private,Doctoral Degree,57258,286290
+1141,2023,Ohio,Private,Master's Degree,45148,90296
+1142,2023,Ohio,Public In-State,Associate Degree,13637,27274
+1143,2023,Ohio,Public In-State,Bachelor's Degree,22776,91104
+1144,2023,Ohio,Public In-State,Doctoral Degree,32924,164620
+1145,2023,Ohio,Public In-State,Master's Degree,23589,47178
+1146,2023,Oklahoma,Private,Associate Degree,29240,58480
+1147,2023,Oklahoma,Private,Bachelor's Degree,52246,208984
+1148,2023,Oklahoma,Private,Doctoral Degree,56180,280900
+1149,2023,Oklahoma,Private,Master's Degree,46458,92916
+1150,2023,Oklahoma,Public In-State,Associate Degree,12832,25664
+1151,2023,Oklahoma,Public In-State,Bachelor's Degree,21681,86724
+1152,2023,Oklahoma,Public In-State,Doctoral Degree,32701,163505
+1153,2023,Oklahoma,Public In-State,Master's Degree,25970,51940
+1154,2023,Oregon,Private,Associate Degree,26817,53634
+1155,2023,Oregon,Private,Bachelor's Degree,51822,207288
+1156,2023,Oregon,Private,Doctoral Degree,52110,260550
+1157,2023,Oregon,Private,Master's Degree,46834,93668
+1158,2023,Oregon,Public In-State,Associate Degree,12913,25826
+1159,2023,Oregon,Public In-State,Bachelor's Degree,22394,89576
+1160,2023,Oregon,Public In-State,Doctoral Degree,34104,170520
+1161,2023,Oregon,Public In-State,Master's Degree,25180,50360
+1162,2023,Pennsylvania,Private,Associate Degree,28185,56370
+1163,2023,Pennsylvania,Private,Bachelor's Degree,52232,208928
+1164,2023,Pennsylvania,Private,Doctoral Degree,53053,265265
+1165,2023,Pennsylvania,Private,Master's Degree,43686,87372
+1166,2023,Pennsylvania,Public In-State,Associate Degree,13729,27458
+1167,2023,Pennsylvania,Public In-State,Bachelor's Degree,22079,88316
+1168,2023,Pennsylvania,Public In-State,Doctoral Degree,35818,179090
+1169,2023,Pennsylvania,Public In-State,Master's Degree,26285,52570
+1170,2023,Rhode Island,Private,Associate Degree,27637,55274
+1171,2023,Rhode Island,Private,Bachelor's Degree,51162,204648
+1172,2023,Rhode Island,Private,Doctoral Degree,50130,250650
+1173,2023,Rhode Island,Private,Master's Degree,47462,94924
+1174,2023,Rhode Island,Public In-State,Associate Degree,12496,24992
+1175,2023,Rhode Island,Public In-State,Bachelor's Degree,22528,90112
+1176,2023,Rhode Island,Public In-State,Doctoral Degree,30968,154840
+1177,2023,Rhode Island,Public In-State,Master's Degree,26437,52874
+1178,2023,South Carolina,Private,Associate Degree,28160,56320
+1179,2023,South Carolina,Private,Bachelor's Degree,52398,209592
+1180,2023,South Carolina,Private,Doctoral Degree,50432,252160
+1181,2023,South Carolina,Private,Master's Degree,43949,87898
+1182,2023,South Carolina,Public In-State,Associate Degree,12998,25996
+1183,2023,South Carolina,Public In-State,Bachelor's Degree,21074,84296
+1184,2023,South Carolina,Public In-State,Doctoral Degree,31391,156955
+1185,2023,South Carolina,Public In-State,Master's Degree,26291,52582
+1186,2023,South Dakota,Private,Associate Degree,27701,55402
+1187,2023,South Dakota,Private,Bachelor's Degree,51365,205460
+1188,2023,South Dakota,Private,Doctoral Degree,53295,266475
+1189,2023,South Dakota,Private,Master's Degree,46930,93860
+1190,2023,South Dakota,Public In-State,Associate Degree,13161,26322
+1191,2023,South Dakota,Public In-State,Bachelor's Degree,21689,86756
+1192,2023,South Dakota,Public In-State,Doctoral Degree,37173,185865
+1193,2023,South Dakota,Public In-State,Master's Degree,25175,50350
+1194,2023,Tennessee,Private,Associate Degree,27524,55048
+1195,2023,Tennessee,Private,Bachelor's Degree,56869,227476
+1196,2023,Tennessee,Private,Doctoral Degree,53306,266530
+1197,2023,Tennessee,Private,Master's Degree,46068,92136
+1198,2023,Tennessee,Public In-State,Associate Degree,14195,28390
+1199,2023,Tennessee,Public In-State,Bachelor's Degree,21399,85596
+1200,2023,Tennessee,Public In-State,Doctoral Degree,33591,167955
+1201,2023,Tennessee,Public In-State,Master's Degree,25367,50734
+1202,2023,Texas,Private,Associate Degree,28503,57006
+1203,2023,Texas,Private,Bachelor's Degree,52082,208328
+1204,2023,Texas,Private,Doctoral Degree,55390,276950
+1205,2023,Texas,Private,Master's Degree,45583,91166
+1206,2023,Texas,Public In-State,Associate Degree,13345,26690
+1207,2023,Texas,Public In-State,Bachelor's Degree,21502,86008
+1208,2023,Texas,Public In-State,Doctoral Degree,32607,163035
+1209,2023,Texas,Public In-State,Master's Degree,25643,51286
+1210,2023,Utah,Private,Associate Degree,28901,57802
+1211,2023,Utah,Private,Bachelor's Degree,54342,217368
+1212,2023,Utah,Private,Doctoral Degree,51581,257905
+1213,2023,Utah,Private,Master's Degree,47313,94626
+1214,2023,Utah,Public In-State,Associate Degree,12940,25880
+1215,2023,Utah,Public In-State,Bachelor's Degree,22950,91800
+1216,2023,Utah,Public In-State,Doctoral Degree,35170,175850
+1217,2023,Utah,Public In-State,Master's Degree,25385,50770
+1218,2023,Vermont,Private,Associate Degree,28175,56350
+1219,2023,Vermont,Private,Bachelor's Degree,56144,224576
+1220,2023,Vermont,Private,Doctoral Degree,57095,285475
+1221,2023,Vermont,Private,Master's Degree,44615,89230
+1222,2023,Vermont,Public In-State,Associate Degree,12721,25442
+1223,2023,Vermont,Public In-State,Bachelor's Degree,22412,89648
+1224,2023,Vermont,Public In-State,Doctoral Degree,35562,177810
+1225,2023,Vermont,Public In-State,Master's Degree,26891,53782
+1226,2023,Virginia,Private,Associate Degree,28109,56218
+1227,2023,Virginia,Private,Bachelor's Degree,55817,223268
+1228,2023,Virginia,Private,Doctoral Degree,54738,273690
+1229,2023,Virginia,Private,Master's Degree,44355,88710
+1230,2023,Virginia,Public In-State,Associate Degree,14297,28594
+1231,2023,Virginia,Public In-State,Bachelor's Degree,20449,81796
+1232,2023,Virginia,Public In-State,Doctoral Degree,32562,162810
+1233,2023,Virginia,Public In-State,Master's Degree,26184,52368
+1234,2023,Washington,Private,Associate Degree,28135,56270
+1235,2023,Washington,Private,Bachelor's Degree,54684,218736
+1236,2023,Washington,Private,Doctoral Degree,54184,270920
+1237,2023,Washington,Private,Master's Degree,43767,87534
+1238,2023,Washington,Public In-State,Associate Degree,13110,26220
+1239,2023,Washington,Public In-State,Bachelor's Degree,21954,87816
+1240,2023,Washington,Public In-State,Doctoral Degree,34708,173540
+1241,2023,Washington,Public In-State,Master's Degree,24236,48472
+1242,2023,West Virginia,Private,Associate Degree,26576,53152
+1243,2023,West Virginia,Private,Bachelor's Degree,55116,220464
+1244,2023,West Virginia,Private,Doctoral Degree,55527,277635
+1245,2023,West Virginia,Private,Master's Degree,46204,92408
+1246,2023,West Virginia,Public In-State,Associate Degree,12904,25808
+1247,2023,West Virginia,Public In-State,Bachelor's Degree,21737,86948
+1248,2023,West Virginia,Public In-State,Doctoral Degree,33906,169530
+1249,2023,West Virginia,Public In-State,Master's Degree,25817,51634
+1250,2023,Wisconsin,Private,Associate Degree,26604,53208
+1251,2023,Wisconsin,Private,Bachelor's Degree,53364,213456
+1252,2023,Wisconsin,Private,Doctoral Degree,51252,256260
+1253,2023,Wisconsin,Private,Master's Degree,45383,90766
+1254,2023,Wisconsin,Public In-State,Associate Degree,13669,27338
+1255,2023,Wisconsin,Public In-State,Bachelor's Degree,22660,90640
+1256,2023,Wisconsin,Public In-State,Doctoral Degree,34844,174220
+1257,2023,Wisconsin,Public In-State,Master's Degree,24323,48646
+1258,2023,Wyoming,Private,Associate Degree,29092,58184
+1259,2023,Wyoming,Private,Bachelor's Degree,55947,223788
+1260,2023,Wyoming,Private,Doctoral Degree,53724,268620
+1261,2023,Wyoming,Private,Master's Degree,41223,82446
+1262,2023,Wyoming,Public In-State,Associate Degree,12479,24958
+1263,2023,Wyoming,Public In-State,Bachelor's Degree,21388,85552
+1264,2023,Wyoming,Public In-State,Doctoral Degree,33820,169100
+1265,2023,Wyoming,Public In-State,Master's Degree,23875,47750
+1266,2024,Alabama,Private,Associate Degree,28933,57866
+1267,2024,Alabama,Private,Bachelor's Degree,52256,209024
+1268,2024,Alabama,Private,Doctoral Degree,56147,280735
+1269,2024,Alabama,Private,Master's Degree,42888,85776
+1270,2024,Alabama,Public In-State,Associate Degree,12957,25914
+1271,2024,Alabama,Public In-State,Bachelor's Degree,22096,88384
+1272,2024,Alabama,Public In-State,Doctoral Degree,33346,166730
+1273,2024,Alabama,Public In-State,Master's Degree,25735,51470
+1274,2024,Alaska,Private,Associate Degree,27296,54592
+1275,2024,Alaska,Private,Bachelor's Degree,50838,203352
+1276,2024,Alaska,Private,Doctoral Degree,56759,283795
+1277,2024,Alaska,Private,Master's Degree,46757,93514
+1278,2024,Alaska,Public In-State,Associate Degree,14026,28052
+1279,2024,Alaska,Public In-State,Bachelor's Degree,21402,85608
+1280,2024,Alaska,Public In-State,Doctoral Degree,35382,176910
+1281,2024,Alaska,Public In-State,Master's Degree,25928,51856
+1282,2024,Arizona,Private,Associate Degree,27948,55896
+1283,2024,Arizona,Private,Bachelor's Degree,52815,211260
+1284,2024,Arizona,Private,Doctoral Degree,54176,270880
+1285,2024,Arizona,Private,Master's Degree,47597,95194
+1286,2024,Arizona,Public In-State,Associate Degree,12579,25158
+1287,2024,Arizona,Public In-State,Bachelor's Degree,21476,85904
+1288,2024,Arizona,Public In-State,Doctoral Degree,33521,167605
+1289,2024,Arizona,Public In-State,Master's Degree,25827,51654
+1290,2024,Arkansas,Private,Associate Degree,28020,56040
+1291,2024,Arkansas,Private,Bachelor's Degree,52924,211696
+1292,2024,Arkansas,Private,Doctoral Degree,52824,264120
+1293,2024,Arkansas,Private,Master's Degree,44180,88360
+1294,2024,Arkansas,Public In-State,Associate Degree,14242,28484
+1295,2024,Arkansas,Public In-State,Bachelor's Degree,20738,82952
+1296,2024,Arkansas,Public In-State,Doctoral Degree,33025,165125
+1297,2024,Arkansas,Public In-State,Master's Degree,26278,52556
+1298,2024,California,Private,Associate Degree,28822,57644
+1299,2024,California,Private,Bachelor's Degree,51474,205896
+1300,2024,California,Private,Doctoral Degree,58562,292810
+1301,2024,California,Private,Master's Degree,44320,88640
+1302,2024,California,Public In-State,Associate Degree,13492,26984
+1303,2024,California,Public In-State,Bachelor's Degree,22136,88544
+1304,2024,California,Public In-State,Doctoral Degree,33812,169060
+1305,2024,California,Public In-State,Master's Degree,26071,52142
+1306,2024,Colorado,Private,Associate Degree,29300,58600
+1307,2024,Colorado,Private,Bachelor's Degree,54969,219876
+1308,2024,Colorado,Private,Doctoral Degree,55432,277160
+1309,2024,Colorado,Private,Master's Degree,42876,85752
+1310,2024,Colorado,Public In-State,Associate Degree,13919,27838
+1311,2024,Colorado,Public In-State,Bachelor's Degree,20129,80516
+1312,2024,Colorado,Public In-State,Doctoral Degree,35770,178850
+1313,2024,Colorado,Public In-State,Master's Degree,26060,52120
+1314,2024,Connecticut,Private,Associate Degree,27033,54066
+1315,2024,Connecticut,Private,Bachelor's Degree,50972,203888
+1316,2024,Connecticut,Private,Doctoral Degree,50477,252385
+1317,2024,Connecticut,Private,Master's Degree,43104,86208
+1318,2024,Connecticut,Public In-State,Associate Degree,13015,26030
+1319,2024,Connecticut,Public In-State,Bachelor's Degree,21691,86764
+1320,2024,Connecticut,Public In-State,Doctoral Degree,33644,168220
+1321,2024,Connecticut,Public In-State,Master's Degree,25571,51142
+1322,2024,Delaware,Private,Associate Degree,29051,58102
+1323,2024,Delaware,Private,Bachelor's Degree,51671,206684
+1324,2024,Delaware,Private,Doctoral Degree,51579,257895
+1325,2024,Delaware,Private,Master's Degree,41368,82736
+1326,2024,Delaware,Public In-State,Associate Degree,14188,28376
+1327,2024,Delaware,Public In-State,Bachelor's Degree,22802,91208
+1328,2024,Delaware,Public In-State,Doctoral Degree,32738,163690
+1329,2024,Delaware,Public In-State,Master's Degree,26011,52022
+1330,2024,District of Columbia,Private,Associate Degree,28762,57524
+1331,2024,District of Columbia,Private,Bachelor's Degree,55065,220260
+1332,2024,District of Columbia,Private,Doctoral Degree,55421,277105
+1333,2024,District of Columbia,Private,Master's Degree,46882,93764
+1334,2024,District of Columbia,Public In-State,Associate Degree,13692,27384
+1335,2024,District of Columbia,Public In-State,Bachelor's Degree,21077,84308
+1336,2024,District of Columbia,Public In-State,Doctoral Degree,35005,175025
+1337,2024,District of Columbia,Public In-State,Master's Degree,26730,53460
+1338,2024,Florida,Private,Associate Degree,27362,54724
+1339,2024,Florida,Private,Bachelor's Degree,51380,205520
+1340,2024,Florida,Private,Doctoral Degree,51871,259355
+1341,2024,Florida,Private,Master's Degree,49087,98174
+1342,2024,Florida,Public In-State,Associate Degree,13617,27234
+1343,2024,Florida,Public In-State,Bachelor's Degree,22121,88484
+1344,2024,Florida,Public In-State,Doctoral Degree,33076,165380
+1345,2024,Florida,Public In-State,Master's Degree,27089,54178
+1346,2024,Georgia,Private,Associate Degree,28229,56458
+1347,2024,Georgia,Private,Bachelor's Degree,54890,219560
+1348,2024,Georgia,Private,Doctoral Degree,57274,286370
+1349,2024,Georgia,Private,Master's Degree,48139,96278
+1350,2024,Georgia,Public In-State,Associate Degree,13586,27172
+1351,2024,Georgia,Public In-State,Bachelor's Degree,22219,88876
+1352,2024,Georgia,Public In-State,Doctoral Degree,31652,158260
+1353,2024,Georgia,Public In-State,Master's Degree,25917,51834
+1354,2024,Hawaii,Private,Associate Degree,28743,57486
+1355,2024,Hawaii,Private,Bachelor's Degree,53953,215812
+1356,2024,Hawaii,Private,Doctoral Degree,54300,271500
+1357,2024,Hawaii,Private,Master's Degree,45657,91314
+1358,2024,Hawaii,Public In-State,Associate Degree,13250,26500
+1359,2024,Hawaii,Public In-State,Bachelor's Degree,20933,83732
+1360,2024,Hawaii,Public In-State,Doctoral Degree,35908,179540
+1361,2024,Hawaii,Public In-State,Master's Degree,24877,49754
+1362,2024,Idaho,Private,Associate Degree,26698,53396
+1363,2024,Idaho,Private,Bachelor's Degree,54530,218120
+1364,2024,Idaho,Private,Doctoral Degree,56693,283465
+1365,2024,Idaho,Private,Master's Degree,45834,91668
+1366,2024,Idaho,Public In-State,Associate Degree,13223,26446
+1367,2024,Idaho,Public In-State,Bachelor's Degree,21717,86868
+1368,2024,Idaho,Public In-State,Doctoral Degree,31678,158390
+1369,2024,Idaho,Public In-State,Master's Degree,25035,50070
+1370,2024,Illinois,Private,Associate Degree,27357,54714
+1371,2024,Illinois,Private,Bachelor's Degree,50430,201720
+1372,2024,Illinois,Private,Doctoral Degree,57495,287475
+1373,2024,Illinois,Private,Master's Degree,47383,94766
+1374,2024,Illinois,Public In-State,Associate Degree,13122,26244
+1375,2024,Illinois,Public In-State,Bachelor's Degree,22222,88888
+1376,2024,Illinois,Public In-State,Doctoral Degree,35868,179340
+1377,2024,Illinois,Public In-State,Master's Degree,27355,54710
+1378,2024,Indiana,Private,Associate Degree,27152,54304
+1379,2024,Indiana,Private,Bachelor's Degree,49298,197192
+1380,2024,Indiana,Private,Doctoral Degree,55165,275825
+1381,2024,Indiana,Private,Master's Degree,43538,87076
+1382,2024,Indiana,Public In-State,Associate Degree,12978,25956
+1383,2024,Indiana,Public In-State,Bachelor's Degree,20952,83808
+1384,2024,Indiana,Public In-State,Doctoral Degree,33225,166125
+1385,2024,Indiana,Public In-State,Master's Degree,23906,47812
+1386,2024,Iowa,Private,Associate Degree,27508,55016
+1387,2024,Iowa,Private,Bachelor's Degree,54307,217228
+1388,2024,Iowa,Private,Doctoral Degree,56454,282270
+1389,2024,Iowa,Private,Master's Degree,46564,93128
+1390,2024,Iowa,Public In-State,Associate Degree,14014,28028
+1391,2024,Iowa,Public In-State,Bachelor's Degree,20429,81716
+1392,2024,Iowa,Public In-State,Doctoral Degree,34661,173305
+1393,2024,Iowa,Public In-State,Master's Degree,27329,54658
+1394,2024,Kansas,Private,Associate Degree,28472,56944
+1395,2024,Kansas,Private,Bachelor's Degree,52256,209024
+1396,2024,Kansas,Private,Doctoral Degree,54111,270555
+1397,2024,Kansas,Private,Master's Degree,41846,83692
+1398,2024,Kansas,Public In-State,Associate Degree,12734,25468
+1399,2024,Kansas,Public In-State,Bachelor's Degree,22058,88232
+1400,2024,Kansas,Public In-State,Doctoral Degree,32584,162920
+1401,2024,Kansas,Public In-State,Master's Degree,25182,50364
+1402,2024,Kentucky,Private,Associate Degree,28097,56194
+1403,2024,Kentucky,Private,Bachelor's Degree,53337,213348
+1404,2024,Kentucky,Private,Doctoral Degree,57191,285955
+1405,2024,Kentucky,Private,Master's Degree,42068,84136
+1406,2024,Kentucky,Public In-State,Associate Degree,12709,25418
+1407,2024,Kentucky,Public In-State,Bachelor's Degree,22114,88456
+1408,2024,Kentucky,Public In-State,Doctoral Degree,31466,157330
+1409,2024,Kentucky,Public In-State,Master's Degree,25503,51006
+1410,2024,Louisiana,Private,Associate Degree,26424,52848
+1411,2024,Louisiana,Private,Bachelor's Degree,54237,216948
+1412,2024,Louisiana,Private,Doctoral Degree,52326,261630
+1413,2024,Louisiana,Private,Master's Degree,47431,94862
+1414,2024,Louisiana,Public In-State,Associate Degree,13130,26260
+1415,2024,Louisiana,Public In-State,Bachelor's Degree,22118,88472
+1416,2024,Louisiana,Public In-State,Doctoral Degree,31631,158155
+1417,2024,Louisiana,Public In-State,Master's Degree,24543,49086
+1418,2024,Maine,Private,Associate Degree,28007,56014
+1419,2024,Maine,Private,Bachelor's Degree,55264,221056
+1420,2024,Maine,Private,Doctoral Degree,53712,268560
+1421,2024,Maine,Private,Master's Degree,46508,93016
+1422,2024,Maine,Public In-State,Associate Degree,12708,25416
+1423,2024,Maine,Public In-State,Bachelor's Degree,21728,86912
+1424,2024,Maine,Public In-State,Doctoral Degree,34056,170280
+1425,2024,Maine,Public In-State,Master's Degree,25657,51314
+1426,2024,Maryland,Private,Associate Degree,28379,56758
+1427,2024,Maryland,Private,Bachelor's Degree,51299,205196
+1428,2024,Maryland,Private,Doctoral Degree,52058,260290
+1429,2024,Maryland,Private,Master's Degree,43016,86032
+1430,2024,Maryland,Public In-State,Associate Degree,13814,27628
+1431,2024,Maryland,Public In-State,Bachelor's Degree,21432,85728
+1432,2024,Maryland,Public In-State,Doctoral Degree,33209,166045
+1433,2024,Maryland,Public In-State,Master's Degree,24567,49134
+1434,2024,Massachusetts,Private,Associate Degree,27316,54632
+1435,2024,Massachusetts,Private,Bachelor's Degree,50803,203212
+1436,2024,Massachusetts,Private,Doctoral Degree,55757,278785
+1437,2024,Massachusetts,Private,Master's Degree,46883,93766
+1438,2024,Massachusetts,Public In-State,Associate Degree,14362,28724
+1439,2024,Massachusetts,Public In-State,Bachelor's Degree,21576,86304
+1440,2024,Massachusetts,Public In-State,Doctoral Degree,35346,176730
+1441,2024,Massachusetts,Public In-State,Master's Degree,26302,52604
+1442,2024,Michigan,Private,Associate Degree,29182,58364
+1443,2024,Michigan,Private,Bachelor's Degree,56144,224576
+1444,2024,Michigan,Private,Doctoral Degree,57325,286625
+1445,2024,Michigan,Private,Master's Degree,44989,89978
+1446,2024,Michigan,Public In-State,Associate Degree,13691,27382
+1447,2024,Michigan,Public In-State,Bachelor's Degree,22352,89408
+1448,2024,Michigan,Public In-State,Doctoral Degree,33170,165850
+1449,2024,Michigan,Public In-State,Master's Degree,24926,49852
+1450,2024,Minnesota,Private,Associate Degree,28746,57492
+1451,2024,Minnesota,Private,Bachelor's Degree,56621,226484
+1452,2024,Minnesota,Private,Doctoral Degree,56115,280575
+1453,2024,Minnesota,Private,Master's Degree,44348,88696
+1454,2024,Minnesota,Public In-State,Associate Degree,13615,27230
+1455,2024,Minnesota,Public In-State,Bachelor's Degree,22123,88492
+1456,2024,Minnesota,Public In-State,Doctoral Degree,34667,173335
+1457,2024,Minnesota,Public In-State,Master's Degree,25310,50620
+1458,2024,Mississippi,Private,Associate Degree,26638,53276
+1459,2024,Mississippi,Private,Bachelor's Degree,50100,200400
+1460,2024,Mississippi,Private,Doctoral Degree,56012,280060
+1461,2024,Mississippi,Private,Master's Degree,43436,86872
+1462,2024,Mississippi,Public In-State,Associate Degree,12867,25734
+1463,2024,Mississippi,Public In-State,Bachelor's Degree,20459,81836
+1464,2024,Mississippi,Public In-State,Doctoral Degree,32930,164650
+1465,2024,Mississippi,Public In-State,Master's Degree,26700,53400
+1466,2024,Missouri,Private,Associate Degree,29095,58190
+1467,2024,Missouri,Private,Bachelor's Degree,52076,208304
+1468,2024,Missouri,Private,Doctoral Degree,54427,272135
+1469,2024,Missouri,Private,Master's Degree,45980,91960
+1470,2024,Missouri,Public In-State,Associate Degree,14307,28614
+1471,2024,Missouri,Public In-State,Bachelor's Degree,21548,86192
+1472,2024,Missouri,Public In-State,Doctoral Degree,34346,171730
+1473,2024,Missouri,Public In-State,Master's Degree,25583,51166
+1474,2024,Montana,Private,Associate Degree,29536,59072
+1475,2024,Montana,Private,Bachelor's Degree,54931,219724
+1476,2024,Montana,Private,Doctoral Degree,58648,293240
+1477,2024,Montana,Private,Master's Degree,44806,89612
+1478,2024,Montana,Public In-State,Associate Degree,12949,25898
+1479,2024,Montana,Public In-State,Bachelor's Degree,21380,85520
+1480,2024,Montana,Public In-State,Doctoral Degree,32540,162700
+1481,2024,Montana,Public In-State,Master's Degree,25001,50002
+1482,2024,Nebraska,Private,Associate Degree,27422,54844
+1483,2024,Nebraska,Private,Bachelor's Degree,51439,205756
+1484,2024,Nebraska,Private,Doctoral Degree,51306,256530
+1485,2024,Nebraska,Private,Master's Degree,47731,95462
+1486,2024,Nebraska,Public In-State,Associate Degree,13237,26474
+1487,2024,Nebraska,Public In-State,Bachelor's Degree,23154,92616
+1488,2024,Nebraska,Public In-State,Doctoral Degree,31557,157785
+1489,2024,Nebraska,Public In-State,Master's Degree,26266,52532
+1490,2024,Nevada,Private,Associate Degree,26947,53894
+1491,2024,Nevada,Private,Bachelor's Degree,55811,223244
+1492,2024,Nevada,Private,Doctoral Degree,52786,263930
+1493,2024,Nevada,Private,Master's Degree,48030,96060
+1494,2024,Nevada,Public In-State,Associate Degree,13577,27154
+1495,2024,Nevada,Public In-State,Bachelor's Degree,21429,85716
+1496,2024,Nevada,Public In-State,Doctoral Degree,34497,172485
+1497,2024,Nevada,Public In-State,Master's Degree,25418,50836
+1498,2024,New Hampshire,Private,Associate Degree,28320,56640
+1499,2024,New Hampshire,Private,Bachelor's Degree,53772,215088
+1500,2024,New Hampshire,Private,Doctoral Degree,57515,287575
+1501,2024,New Hampshire,Private,Master's Degree,46831,93662
+1502,2024,New Hampshire,Public In-State,Associate Degree,14182,28364
+1503,2024,New Hampshire,Public In-State,Bachelor's Degree,22040,88160
+1504,2024,New Hampshire,Public In-State,Doctoral Degree,32882,164410
+1505,2024,New Hampshire,Public In-State,Master's Degree,23631,47262
+1506,2024,New Jersey,Private,Associate Degree,29202,58404
+1507,2024,New Jersey,Private,Bachelor's Degree,54095,216380
+1508,2024,New Jersey,Private,Doctoral Degree,53169,265845
+1509,2024,New Jersey,Private,Master's Degree,46289,92578
+1510,2024,New Jersey,Public In-State,Associate Degree,12808,25616
+1511,2024,New Jersey,Public In-State,Bachelor's Degree,21883,87532
+1512,2024,New Jersey,Public In-State,Doctoral Degree,34993,174965
+1513,2024,New Jersey,Public In-State,Master's Degree,25249,50498
+1514,2024,New Mexico,Private,Associate Degree,28505,57010
+1515,2024,New Mexico,Private,Bachelor's Degree,53718,214872
+1516,2024,New Mexico,Private,Doctoral Degree,54227,271135
+1517,2024,New Mexico,Private,Master's Degree,47126,94252
+1518,2024,New Mexico,Public In-State,Associate Degree,13675,27350
+1519,2024,New Mexico,Public In-State,Bachelor's Degree,21456,85824
+1520,2024,New Mexico,Public In-State,Doctoral Degree,34115,170575
+1521,2024,New Mexico,Public In-State,Master's Degree,24400,48800
+1522,2024,New York,Private,Associate Degree,26097,52194
+1523,2024,New York,Private,Bachelor's Degree,51841,207364
+1524,2024,New York,Private,Doctoral Degree,53371,266855
+1525,2024,New York,Private,Master's Degree,45055,90110
+1526,2024,New York,Public In-State,Associate Degree,13258,26516
+1527,2024,New York,Public In-State,Bachelor's Degree,21289,85156
+1528,2024,New York,Public In-State,Doctoral Degree,33383,166915
+1529,2024,New York,Public In-State,Master's Degree,25864,51728
+1530,2024,North Carolina,Private,Associate Degree,26018,52036
+1531,2024,North Carolina,Private,Bachelor's Degree,54579,218316
+1532,2024,North Carolina,Private,Doctoral Degree,50646,253230
+1533,2024,North Carolina,Private,Master's Degree,42788,85576
+1534,2024,North Carolina,Public In-State,Associate Degree,14031,28062
+1535,2024,North Carolina,Public In-State,Bachelor's Degree,21643,86572
+1536,2024,North Carolina,Public In-State,Doctoral Degree,33867,169335
+1537,2024,North Carolina,Public In-State,Master's Degree,26289,52578
+1538,2024,North Dakota,Private,Associate Degree,28829,57658
+1539,2024,North Dakota,Private,Bachelor's Degree,54215,216860
+1540,2024,North Dakota,Private,Doctoral Degree,50909,254545
+1541,2024,North Dakota,Private,Master's Degree,44486,88972
+1542,2024,North Dakota,Public In-State,Associate Degree,13658,27316
+1543,2024,North Dakota,Public In-State,Bachelor's Degree,22427,89708
+1544,2024,North Dakota,Public In-State,Doctoral Degree,33515,167575
+1545,2024,North Dakota,Public In-State,Master's Degree,25879,51758
+1546,2024,Ohio,Private,Associate Degree,27828,55656
+1547,2024,Ohio,Private,Bachelor's Degree,53218,212872
+1548,2024,Ohio,Private,Doctoral Degree,57669,288345
+1549,2024,Ohio,Private,Master's Degree,43347,86694
+1550,2024,Ohio,Public In-State,Associate Degree,14324,28648
+1551,2024,Ohio,Public In-State,Bachelor's Degree,21797,87188
+1552,2024,Ohio,Public In-State,Doctoral Degree,36058,180290
+1553,2024,Ohio,Public In-State,Master's Degree,24985,49970
+1554,2024,Oklahoma,Private,Associate Degree,27287,54574
+1555,2024,Oklahoma,Private,Bachelor's Degree,51072,204288
+1556,2024,Oklahoma,Private,Doctoral Degree,53221,266105
+1557,2024,Oklahoma,Private,Master's Degree,44559,89118
+1558,2024,Oklahoma,Public In-State,Associate Degree,14123,28246
+1559,2024,Oklahoma,Public In-State,Bachelor's Degree,20828,83312
+1560,2024,Oklahoma,Public In-State,Doctoral Degree,34792,173960
+1561,2024,Oklahoma,Public In-State,Master's Degree,25482,50964
+1562,2024,Oregon,Private,Associate Degree,28404,56808
+1563,2024,Oregon,Private,Bachelor's Degree,51640,206560
+1564,2024,Oregon,Private,Doctoral Degree,52326,261630
+1565,2024,Oregon,Private,Master's Degree,43885,87770
+1566,2024,Oregon,Public In-State,Associate Degree,13438,26876
+1567,2024,Oregon,Public In-State,Bachelor's Degree,22674,90696
+1568,2024,Oregon,Public In-State,Doctoral Degree,34234,171170
+1569,2024,Oregon,Public In-State,Master's Degree,25505,51010
+1570,2024,Pennsylvania,Private,Associate Degree,29397,58794
+1571,2024,Pennsylvania,Private,Bachelor's Degree,52190,208760
+1572,2024,Pennsylvania,Private,Doctoral Degree,54771,273855
+1573,2024,Pennsylvania,Private,Master's Degree,43234,86468
+1574,2024,Pennsylvania,Public In-State,Associate Degree,13396,26792
+1575,2024,Pennsylvania,Public In-State,Bachelor's Degree,21354,85416
+1576,2024,Pennsylvania,Public In-State,Doctoral Degree,35131,175655
+1577,2024,Pennsylvania,Public In-State,Master's Degree,25758,51516
+1578,2024,Rhode Island,Private,Associate Degree,28138,56276
+1579,2024,Rhode Island,Private,Bachelor's Degree,54713,218852
+1580,2024,Rhode Island,Private,Doctoral Degree,58052,290260
+1581,2024,Rhode Island,Private,Master's Degree,46452,92904
+1582,2024,Rhode Island,Public In-State,Associate Degree,13176,26352
+1583,2024,Rhode Island,Public In-State,Bachelor's Degree,21688,86752
+1584,2024,Rhode Island,Public In-State,Doctoral Degree,34905,174525
+1585,2024,Rhode Island,Public In-State,Master's Degree,24628,49256
+1586,2024,South Carolina,Private,Associate Degree,28157,56314
+1587,2024,South Carolina,Private,Bachelor's Degree,55572,222288
+1588,2024,South Carolina,Private,Doctoral Degree,56272,281360
+1589,2024,South Carolina,Private,Master's Degree,43265,86530
+1590,2024,South Carolina,Public In-State,Associate Degree,13780,27560
+1591,2024,South Carolina,Public In-State,Bachelor's Degree,22315,89260
+1592,2024,South Carolina,Public In-State,Doctoral Degree,36642,183210
+1593,2024,South Carolina,Public In-State,Master's Degree,26686,53372
+1594,2024,South Dakota,Private,Associate Degree,29662,59324
+1595,2024,South Dakota,Private,Bachelor's Degree,50889,203556
+1596,2024,South Dakota,Private,Doctoral Degree,55223,276115
+1597,2024,South Dakota,Private,Master's Degree,47768,95536
+1598,2024,South Dakota,Public In-State,Associate Degree,13716,27432
+1599,2024,South Dakota,Public In-State,Bachelor's Degree,21485,85940
+1600,2024,South Dakota,Public In-State,Doctoral Degree,32235,161175
+1601,2024,South Dakota,Public In-State,Master's Degree,25784,51568
+1602,2024,Tennessee,Private,Associate Degree,29249,58498
+1603,2024,Tennessee,Private,Bachelor's Degree,54152,216608
+1604,2024,Tennessee,Private,Doctoral Degree,52436,262180
+1605,2024,Tennessee,Private,Master's Degree,42234,84468
+1606,2024,Tennessee,Public In-State,Associate Degree,13564,27128
+1607,2024,Tennessee,Public In-State,Bachelor's Degree,22510,90040
+1608,2024,Tennessee,Public In-State,Doctoral Degree,33403,167015
+1609,2024,Tennessee,Public In-State,Master's Degree,25359,50718
+1610,2024,Texas,Private,Associate Degree,27191,54382
+1611,2024,Texas,Private,Bachelor's Degree,50172,200688
+1612,2024,Texas,Private,Doctoral Degree,55719,278595
+1613,2024,Texas,Private,Master's Degree,47370,94740
+1614,2024,Texas,Public In-State,Associate Degree,14379,28758
+1615,2024,Texas,Public In-State,Bachelor's Degree,21388,85552
+1616,2024,Texas,Public In-State,Doctoral Degree,33041,165205
+1617,2024,Texas,Public In-State,Master's Degree,24256,48512
+1618,2024,Utah,Private,Associate Degree,28125,56250
+1619,2024,Utah,Private,Bachelor's Degree,53818,215272
+1620,2024,Utah,Private,Doctoral Degree,51511,257555
+1621,2024,Utah,Private,Master's Degree,46400,92800
+1622,2024,Utah,Public In-State,Associate Degree,14093,28186
+1623,2024,Utah,Public In-State,Bachelor's Degree,21812,87248
+1624,2024,Utah,Public In-State,Doctoral Degree,35903,179515
+1625,2024,Utah,Public In-State,Master's Degree,23498,46996
+1626,2024,Vermont,Private,Associate Degree,27443,54886
+1627,2024,Vermont,Private,Bachelor's Degree,50372,201488
+1628,2024,Vermont,Private,Doctoral Degree,51145,255725
+1629,2024,Vermont,Private,Master's Degree,44569,89138
+1630,2024,Vermont,Public In-State,Associate Degree,13833,27666
+1631,2024,Vermont,Public In-State,Bachelor's Degree,21698,86792
+1632,2024,Vermont,Public In-State,Doctoral Degree,33587,167935
+1633,2024,Vermont,Public In-State,Master's Degree,25453,50906
+1634,2024,Virginia,Private,Associate Degree,28953,57906
+1635,2024,Virginia,Private,Bachelor's Degree,57241,228964
+1636,2024,Virginia,Private,Doctoral Degree,55698,278490
+1637,2024,Virginia,Private,Master's Degree,42086,84172
+1638,2024,Virginia,Public In-State,Associate Degree,13422,26844
+1639,2024,Virginia,Public In-State,Bachelor's Degree,21725,86900
+1640,2024,Virginia,Public In-State,Doctoral Degree,34538,172690
+1641,2024,Virginia,Public In-State,Master's Degree,26149,52298
+1642,2024,Washington,Private,Associate Degree,29958,59916
+1643,2024,Washington,Private,Bachelor's Degree,51965,207860
+1644,2024,Washington,Private,Doctoral Degree,57361,286805
+1645,2024,Washington,Private,Master's Degree,44313,88626
+1646,2024,Washington,Public In-State,Associate Degree,13418,26836
+1647,2024,Washington,Public In-State,Bachelor's Degree,20575,82300
+1648,2024,Washington,Public In-State,Doctoral Degree,35048,175240
+1649,2024,Washington,Public In-State,Master's Degree,24234,48468
+1650,2024,West Virginia,Private,Associate Degree,27753,55506
+1651,2024,West Virginia,Private,Bachelor's Degree,54919,219676
+1652,2024,West Virginia,Private,Doctoral Degree,53593,267965
+1653,2024,West Virginia,Private,Master's Degree,46724,93448
+1654,2024,West Virginia,Public In-State,Associate Degree,13971,27942
+1655,2024,West Virginia,Public In-State,Bachelor's Degree,22352,89408
+1656,2024,West Virginia,Public In-State,Doctoral Degree,33978,169890
+1657,2024,West Virginia,Public In-State,Master's Degree,25326,50652
+1658,2024,Wisconsin,Private,Associate Degree,26599,53198
+1659,2024,Wisconsin,Private,Bachelor's Degree,51017,204068
+1660,2024,Wisconsin,Private,Doctoral Degree,54278,271390
+1661,2024,Wisconsin,Private,Master's Degree,47228,94456
+1662,2024,Wisconsin,Public In-State,Associate Degree,12956,25912
+1663,2024,Wisconsin,Public In-State,Bachelor's Degree,22601,90404
+1664,2024,Wisconsin,Public In-State,Doctoral Degree,33350,166750
+1665,2024,Wisconsin,Public In-State,Master's Degree,27010,54020
+1666,2024,Wyoming,Private,Associate Degree,27266,54532
+1667,2024,Wyoming,Private,Bachelor's Degree,53608,214432
+1668,2024,Wyoming,Private,Doctoral Degree,51505,257525
+1669,2024,Wyoming,Private,Master's Degree,45780,91560
+1670,2024,Wyoming,Public In-State,Associate Degree,14277,28554
+1671,2024,Wyoming,Public In-State,Bachelor's Degree,21483,85932
+1672,2024,Wyoming,Public In-State,Doctoral Degree,33461,167305
+1673,2024,Wyoming,Public In-State,Master's Degree,23894,47788

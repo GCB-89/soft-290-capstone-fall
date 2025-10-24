@@ -1,0 +1,813 @@
+CostID,SchoolYear,SchoolState,EducationLevel,AverageTotalDegreeCost
+1,2021,Alabama,Associate Degree,15130
+2,2021,Alabama,Bachelor's Degree,100965
+3,2021,Alabama,Doctoral Degree,220035
+4,2021,Alabama,Master's Degree,71808
+5,2021,Alaska,Bachelor's Degree,107425
+6,2021,Alaska,Doctoral Degree,222148
+7,2021,Alaska,Master's Degree,68331
+8,2021,Arizona,Associate Degree,9087
+9,2021,Arizona,Bachelor's Degree,99776
+10,2021,Arizona,Doctoral Degree,203570
+11,2021,Arizona,Master's Degree,68113
+12,2021,Arkansas,Associate Degree,8329
+13,2021,Arkansas,Bachelor's Degree,99733
+14,2021,Arkansas,Doctoral Degree,225665
+15,2021,Arkansas,Master's Degree,69280
+16,2021,California,Associate Degree,9776
+17,2021,California,Bachelor's Degree,159075
+18,2021,California,Doctoral Degree,220290
+19,2021,California,Master's Degree,73372
+20,2021,Colorado,Associate Degree,12357
+21,2021,Colorado,Bachelor's Degree,125128
+22,2021,Colorado,Doctoral Degree,215133
+23,2021,Colorado,Master's Degree,69200
+24,2021,Connecticut,Associate Degree,18005
+25,2021,Connecticut,Bachelor's Degree,164619
+26,2021,Connecticut,Doctoral Degree,223618
+27,2021,Connecticut,Master's Degree,67855
+28,2021,Delaware,Bachelor's Degree,112784
+29,2021,Delaware,Doctoral Degree,225650
+30,2021,Delaware,Master's Degree,71580
+31,2021,District of Columbia,Bachelor's Degree,149832
+32,2021,District of Columbia,Doctoral Degree,221008
+33,2021,District of Columbia,Master's Degree,66396
+34,2021,Florida,Associate Degree,11617
+35,2021,Florida,Bachelor's Degree,109561
+36,2021,Florida,Doctoral Degree,214703
+37,2021,Florida,Master's Degree,68754
+38,2021,Georgia,Associate Degree,11704
+39,2021,Georgia,Bachelor's Degree,119239
+40,2021,Georgia,Doctoral Degree,220678
+41,2021,Georgia,Master's Degree,71272
+42,2021,Hawaii,Associate Degree,11604
+43,2021,Hawaii,Bachelor's Degree,118161
+44,2021,Hawaii,Doctoral Degree,219385
+45,2021,Hawaii,Master's Degree,70230
+46,2021,Idaho,Associate Degree,11567
+47,2021,Idaho,Bachelor's Degree,77269
+48,2021,Idaho,Doctoral Degree,220785
+49,2021,Idaho,Master's Degree,66238
+50,2021,Illinois,Associate Degree,15346
+51,2021,Illinois,Bachelor's Degree,135719
+52,2021,Illinois,Doctoral Degree,224275
+53,2021,Illinois,Master's Degree,69357
+54,2021,Indiana,Associate Degree,13564
+55,2021,Indiana,Bachelor's Degree,132017
+56,2021,Indiana,Doctoral Degree,229413
+57,2021,Indiana,Master's Degree,72997
+58,2021,Iowa,Associate Degree,12255
+59,2021,Iowa,Bachelor's Degree,125197
+60,2021,Iowa,Doctoral Degree,228760
+61,2021,Iowa,Master's Degree,69314
+62,2021,Kansas,Associate Degree,8476
+63,2021,Kansas,Bachelor's Degree,105715
+64,2021,Kansas,Doctoral Degree,217680
+65,2021,Kansas,Master's Degree,68634
+66,2021,Kentucky,Associate Degree,19779
+67,2021,Kentucky,Bachelor's Degree,112011
+68,2021,Kentucky,Doctoral Degree,209893
+69,2021,Kentucky,Master's Degree,66123
+70,2021,Louisiana,Associate Degree,10989
+71,2021,Louisiana,Bachelor's Degree,132849
+72,2021,Louisiana,Doctoral Degree,230593
+73,2021,Louisiana,Master's Degree,73829
+74,2021,Maine,Associate Degree,10603
+75,2021,Maine,Bachelor's Degree,138155
+76,2021,Maine,Doctoral Degree,226358
+77,2021,Maine,Master's Degree,72431
+78,2021,Maryland,Associate Degree,14992
+79,2021,Maryland,Bachelor's Degree,147291
+80,2021,Maryland,Doctoral Degree,219825
+81,2021,Maryland,Master's Degree,69302
+82,2021,Massachusetts,Associate Degree,16209
+83,2021,Massachusetts,Bachelor's Degree,168744
+84,2021,Massachusetts,Doctoral Degree,211735
+85,2021,Massachusetts,Master's Degree,70713
+86,2021,Michigan,Associate Degree,11463
+87,2021,Michigan,Bachelor's Degree,137785
+88,2021,Michigan,Doctoral Degree,233108
+89,2021,Michigan,Master's Degree,67882
+90,2021,Minnesota,Associate Degree,11557
+91,2021,Minnesota,Bachelor's Degree,120583
+92,2021,Minnesota,Doctoral Degree,221895
+93,2021,Minnesota,Master's Degree,67075
+94,2021,Mississippi,Associate Degree,9311
+95,2021,Mississippi,Bachelor's Degree,92775
+96,2021,Mississippi,Doctoral Degree,217280
+97,2021,Mississippi,Master's Degree,68014
+98,2021,Missouri,Associate Degree,10459
+99,2021,Missouri,Bachelor's Degree,107795
+100,2021,Missouri,Doctoral Degree,222528
+101,2021,Missouri,Master's Degree,69814
+102,2021,Montana,Associate Degree,13019
+103,2021,Montana,Bachelor's Degree,117536
+104,2021,Montana,Doctoral Degree,220768
+105,2021,Montana,Master's Degree,72723
+106,2021,Nebraska,Associate Degree,7135
+107,2021,Nebraska,Bachelor's Degree,104591
+108,2021,Nebraska,Doctoral Degree,203328
+109,2021,Nebraska,Master's Degree,68294
+110,2021,Nevada,Bachelor's Degree,115351
+111,2021,Nevada,Doctoral Degree,223763
+112,2021,Nevada,Master's Degree,71547
+113,2021,New Hampshire,Associate Degree,22466
+114,2021,New Hampshire,Bachelor's Degree,113737
+115,2021,New Hampshire,Doctoral Degree,217960
+116,2021,New Hampshire,Master's Degree,71011
+117,2021,New Jersey,Associate Degree,13055
+118,2021,New Jersey,Bachelor's Degree,145900
+119,2021,New Jersey,Doctoral Degree,230173
+120,2021,New Jersey,Master's Degree,73290
+121,2021,New Mexico,Associate Degree,8002
+122,2021,New Mexico,Bachelor's Degree,103804
+123,2021,New Mexico,Doctoral Degree,214995
+124,2021,New Mexico,Master's Degree,71212
+125,2021,New York,Associate Degree,14450
+126,2021,New York,Bachelor's Degree,146888
+127,2021,New York,Doctoral Degree,227730
+128,2021,New York,Master's Degree,71811
+129,2021,North Carolina,Associate Degree,10985
+130,2021,North Carolina,Bachelor's Degree,125424
+131,2021,North Carolina,Doctoral Degree,217420
+132,2021,North Carolina,Master's Degree,70557
+133,2021,North Dakota,Associate Degree,11419
+134,2021,North Dakota,Bachelor's Degree,74812
+135,2021,North Dakota,Doctoral Degree,206313
+136,2021,North Dakota,Master's Degree,67678
+137,2021,Ohio,Associate Degree,12304
+138,2021,Ohio,Bachelor's Degree,132495
+139,2021,Ohio,Doctoral Degree,223148
+140,2021,Ohio,Master's Degree,71609
+141,2021,Oklahoma,Associate Degree,13514
+142,2021,Oklahoma,Bachelor's Degree,106664
+143,2021,Oklahoma,Doctoral Degree,228040
+144,2021,Oklahoma,Master's Degree,65525
+145,2021,Oregon,Associate Degree,13846
+146,2021,Oregon,Bachelor's Degree,158141
+147,2021,Oregon,Doctoral Degree,206623
+148,2021,Oregon,Master's Degree,74126
+149,2021,Pennsylvania,Associate Degree,18249
+150,2021,Pennsylvania,Bachelor's Degree,142760
+151,2021,Pennsylvania,Doctoral Degree,232028
+152,2021,Pennsylvania,Master's Degree,71485
+153,2021,Rhode Island,Associate Degree,17690
+154,2021,Rhode Island,Bachelor's Degree,160401
+155,2021,Rhode Island,Doctoral Degree,236625
+156,2021,Rhode Island,Master's Degree,72444
+157,2021,South Carolina,Associate Degree,15277
+158,2021,South Carolina,Bachelor's Degree,122611
+159,2021,South Carolina,Doctoral Degree,213770
+160,2021,South Carolina,Master's Degree,69534
+161,2021,South Dakota,Associate Degree,14550
+162,2021,South Dakota,Bachelor's Degree,85980
+163,2021,South Dakota,Doctoral Degree,226715
+164,2021,South Dakota,Master's Degree,68666
+165,2021,Tennessee,Associate Degree,21374
+166,2021,Tennessee,Bachelor's Degree,116257
+167,2021,Tennessee,Doctoral Degree,227473
+168,2021,Tennessee,Master's Degree,68572
+169,2021,Texas,Associate Degree,10592
+170,2021,Texas,Bachelor's Degree,127964
+171,2021,Texas,Doctoral Degree,201620
+172,2021,Texas,Master's Degree,72240
+173,2021,Utah,Associate Degree,16698
+174,2021,Utah,Bachelor's Degree,71045
+175,2021,Utah,Doctoral Degree,227093
+176,2021,Utah,Master's Degree,71171
+177,2021,Vermont,Associate Degree,20560
+178,2021,Vermont,Bachelor's Degree,175536
+179,2021,Vermont,Doctoral Degree,217358
+180,2021,Vermont,Master's Degree,72767
+181,2021,Virginia,Associate Degree,17287
+182,2021,Virginia,Bachelor's Degree,127008
+183,2021,Virginia,Doctoral Degree,227170
+184,2021,Virginia,Master's Degree,69616
+185,2021,Washington,Associate Degree,11750
+186,2021,Washington,Bachelor's Degree,149360
+187,2021,Washington,Doctoral Degree,219003
+188,2021,Washington,Master's Degree,68979
+189,2021,West Virginia,Associate Degree,14251
+190,2021,West Virginia,Bachelor's Degree,89197
+191,2021,West Virginia,Doctoral Degree,218388
+192,2021,West Virginia,Master's Degree,71678
+193,2021,Wisconsin,Associate Degree,11086
+194,2021,Wisconsin,Bachelor's Degree,122959
+195,2021,Wisconsin,Doctoral Degree,226263
+196,2021,Wisconsin,Master's Degree,69679
+197,2021,Wyoming,Associate Degree,13807
+198,2021,Wyoming,Bachelor's Degree,68616
+199,2021,Wyoming,Doctoral Degree,216110
+200,2021,Wyoming,Master's Degree,72390
+201,2022,Alabama,Associate Degree,39867
+202,2022,Alabama,Bachelor's Degree,150060
+203,2022,Alabama,Doctoral Degree,222615
+204,2022,Alabama,Master's Degree,67894
+205,2022,Alaska,Associate Degree,40932
+206,2022,Alaska,Bachelor's Degree,145642
+207,2022,Alaska,Doctoral Degree,209098
+208,2022,Alaska,Master's Degree,67425
+209,2022,Arizona,Associate Degree,42442
+210,2022,Arizona,Bachelor's Degree,148104
+211,2022,Arizona,Doctoral Degree,218398
+212,2022,Arizona,Master's Degree,71784
+213,2022,Arkansas,Associate Degree,41501
+214,2022,Arkansas,Bachelor's Degree,155736
+215,2022,Arkansas,Doctoral Degree,232950
+216,2022,Arkansas,Master's Degree,70456
+217,2022,California,Associate Degree,40646
+218,2022,California,Bachelor's Degree,153178
+219,2022,California,Doctoral Degree,209203
+220,2022,California,Master's Degree,68439
+221,2022,Colorado,Associate Degree,42059
+222,2022,Colorado,Bachelor's Degree,153366
+223,2022,Colorado,Doctoral Degree,221775
+224,2022,Colorado,Master's Degree,69889
+225,2022,Connecticut,Associate Degree,41636
+226,2022,Connecticut,Bachelor's Degree,148162
+227,2022,Connecticut,Doctoral Degree,231485
+228,2022,Connecticut,Master's Degree,72408
+229,2022,Delaware,Associate Degree,41179
+230,2022,Delaware,Bachelor's Degree,146638
+231,2022,Delaware,Doctoral Degree,213103
+232,2022,Delaware,Master's Degree,69927
+233,2022,District of Columbia,Associate Degree,41626
+234,2022,District of Columbia,Bachelor's Degree,145476
+235,2022,District of Columbia,Doctoral Degree,212980
+236,2022,District of Columbia,Master's Degree,74345
+237,2022,Florida,Associate Degree,41450
+238,2022,Florida,Bachelor's Degree,142310
+239,2022,Florida,Doctoral Degree,230633
+240,2022,Florida,Master's Degree,73034
+241,2022,Georgia,Associate Degree,39920
+242,2022,Georgia,Bachelor's Degree,153484
+243,2022,Georgia,Doctoral Degree,232370
+244,2022,Georgia,Master's Degree,66557
+245,2022,Hawaii,Associate Degree,41431
+246,2022,Hawaii,Bachelor's Degree,150226
+247,2022,Hawaii,Doctoral Degree,224538
+248,2022,Hawaii,Master's Degree,69159
+249,2022,Idaho,Associate Degree,40210
+250,2022,Idaho,Bachelor's Degree,148610
+251,2022,Idaho,Doctoral Degree,212980
+252,2022,Idaho,Master's Degree,69097
+253,2022,Illinois,Associate Degree,42939
+254,2022,Illinois,Bachelor's Degree,147628
+255,2022,Illinois,Doctoral Degree,211510
+256,2022,Illinois,Master's Degree,68375
+257,2022,Indiana,Associate Degree,43551
+258,2022,Indiana,Bachelor's Degree,150898
+259,2022,Indiana,Doctoral Degree,223263
+260,2022,Indiana,Master's Degree,68959
+261,2022,Iowa,Associate Degree,42667
+262,2022,Iowa,Bachelor's Degree,156422
+263,2022,Iowa,Doctoral Degree,215500
+264,2022,Iowa,Master's Degree,66032
+265,2022,Kansas,Associate Degree,41474
+266,2022,Kansas,Bachelor's Degree,149164
+267,2022,Kansas,Doctoral Degree,213103
+268,2022,Kansas,Master's Degree,72692
+269,2022,Kentucky,Associate Degree,40953
+270,2022,Kentucky,Bachelor's Degree,143570
+271,2022,Kentucky,Doctoral Degree,225685
+272,2022,Kentucky,Master's Degree,71349
+273,2022,Louisiana,Associate Degree,41074
+274,2022,Louisiana,Bachelor's Degree,146088
+275,2022,Louisiana,Doctoral Degree,232935
+276,2022,Louisiana,Master's Degree,72958
+277,2022,Maine,Associate Degree,40716
+278,2022,Maine,Bachelor's Degree,150348
+279,2022,Maine,Doctoral Degree,219190
+280,2022,Maine,Master's Degree,68337
+281,2022,Maryland,Associate Degree,40048
+282,2022,Maryland,Bachelor's Degree,143420
+283,2022,Maryland,Doctoral Degree,225023
+284,2022,Maryland,Master's Degree,69798
+285,2022,Massachusetts,Associate Degree,39898
+286,2022,Massachusetts,Bachelor's Degree,149974
+287,2022,Massachusetts,Doctoral Degree,218518
+288,2022,Massachusetts,Master's Degree,68831
+289,2022,Michigan,Associate Degree,41991
+290,2022,Michigan,Bachelor's Degree,152254
+291,2022,Michigan,Doctoral Degree,227070
+292,2022,Michigan,Master's Degree,68754
+293,2022,Minnesota,Associate Degree,40723
+294,2022,Minnesota,Bachelor's Degree,154508
+295,2022,Minnesota,Doctoral Degree,216040
+296,2022,Minnesota,Master's Degree,72677
+297,2022,Mississippi,Associate Degree,43045
+298,2022,Mississippi,Bachelor's Degree,154356
+299,2022,Mississippi,Doctoral Degree,220958
+300,2022,Mississippi,Master's Degree,66123
+301,2022,Missouri,Associate Degree,40373
+302,2022,Missouri,Bachelor's Degree,145888
+303,2022,Missouri,Doctoral Degree,229205
+304,2022,Missouri,Master's Degree,72024
+305,2022,Montana,Associate Degree,40568
+306,2022,Montana,Bachelor's Degree,153928
+307,2022,Montana,Doctoral Degree,225803
+308,2022,Montana,Master's Degree,70369
+309,2022,Nebraska,Associate Degree,41404
+310,2022,Nebraska,Bachelor's Degree,146816
+311,2022,Nebraska,Doctoral Degree,220540
+312,2022,Nebraska,Master's Degree,68103
+313,2022,Nevada,Associate Degree,38987
+314,2022,Nevada,Bachelor's Degree,149818
+315,2022,Nevada,Doctoral Degree,234535
+316,2022,Nevada,Master's Degree,71645
+317,2022,New Hampshire,Associate Degree,42071
+318,2022,New Hampshire,Bachelor's Degree,153380
+319,2022,New Hampshire,Doctoral Degree,222525
+320,2022,New Hampshire,Master's Degree,69902
+321,2022,New Jersey,Associate Degree,41686
+322,2022,New Jersey,Bachelor's Degree,148588
+323,2022,New Jersey,Doctoral Degree,213553
+324,2022,New Jersey,Master's Degree,65841
+325,2022,New Mexico,Associate Degree,41392
+326,2022,New Mexico,Bachelor's Degree,147504
+327,2022,New Mexico,Doctoral Degree,224795
+328,2022,New Mexico,Master's Degree,74237
+329,2022,New York,Associate Degree,41179
+330,2022,New York,Bachelor's Degree,149476
+331,2022,New York,Doctoral Degree,223205
+332,2022,New York,Master's Degree,74670
+333,2022,North Carolina,Associate Degree,40627
+334,2022,North Carolina,Bachelor's Degree,148452
+335,2022,North Carolina,Doctoral Degree,220160
+336,2022,North Carolina,Master's Degree,69753
+337,2022,North Dakota,Associate Degree,40858
+338,2022,North Dakota,Bachelor's Degree,151008
+339,2022,North Dakota,Doctoral Degree,228415
+340,2022,North Dakota,Master's Degree,69518
+341,2022,Ohio,Associate Degree,40765
+342,2022,Ohio,Bachelor's Degree,153196
+343,2022,Ohio,Doctoral Degree,225768
+344,2022,Ohio,Master's Degree,69335
+345,2022,Oklahoma,Associate Degree,41364
+346,2022,Oklahoma,Bachelor's Degree,149514
+347,2022,Oklahoma,Doctoral Degree,213363
+348,2022,Oklahoma,Master's Degree,68501
+349,2022,Oregon,Associate Degree,41200
+350,2022,Oregon,Bachelor's Degree,151598
+351,2022,Oregon,Doctoral Degree,224130
+352,2022,Oregon,Master's Degree,71610
+353,2022,Pennsylvania,Associate Degree,41624
+354,2022,Pennsylvania,Bachelor's Degree,146848
+355,2022,Pennsylvania,Doctoral Degree,212693
+356,2022,Pennsylvania,Master's Degree,69861
+357,2022,Rhode Island,Associate Degree,42164
+358,2022,Rhode Island,Bachelor's Degree,150416
+359,2022,Rhode Island,Doctoral Degree,218155
+360,2022,Rhode Island,Master's Degree,72183
+361,2022,South Carolina,Associate Degree,41159
+362,2022,South Carolina,Bachelor's Degree,147078
+363,2022,South Carolina,Doctoral Degree,216845
+364,2022,South Carolina,Master's Degree,71239
+365,2022,South Dakota,Associate Degree,40634
+366,2022,South Dakota,Bachelor's Degree,158490
+367,2022,South Dakota,Doctoral Degree,211040
+368,2022,South Dakota,Master's Degree,73822
+369,2022,Tennessee,Associate Degree,41032
+370,2022,Tennessee,Bachelor's Degree,154894
+371,2022,Tennessee,Doctoral Degree,212200
+372,2022,Tennessee,Master's Degree,67880
+373,2022,Texas,Associate Degree,40823
+374,2022,Texas,Bachelor's Degree,146848
+375,2022,Texas,Doctoral Degree,222385
+376,2022,Texas,Master's Degree,69731
+377,2022,Utah,Associate Degree,42235
+378,2022,Utah,Bachelor's Degree,152338
+379,2022,Utah,Doctoral Degree,216830
+380,2022,Utah,Master's Degree,71314
+381,2022,Vermont,Associate Degree,42741
+382,2022,Vermont,Bachelor's Degree,155686
+383,2022,Vermont,Doctoral Degree,214440
+384,2022,Vermont,Master's Degree,73599
+385,2022,Virginia,Associate Degree,41064
+386,2022,Virginia,Bachelor's Degree,149852
+387,2022,Virginia,Doctoral Degree,223785
+388,2022,Virginia,Master's Degree,68878
+389,2022,Washington,Associate Degree,41676
+390,2022,Washington,Bachelor's Degree,144604
+391,2022,Washington,Doctoral Degree,217773
+392,2022,Washington,Master's Degree,71017
+393,2022,West Virginia,Associate Degree,41024
+394,2022,West Virginia,Bachelor's Degree,142442
+395,2022,West Virginia,Doctoral Degree,210898
+396,2022,West Virginia,Master's Degree,69877
+397,2022,Wisconsin,Associate Degree,41806
+398,2022,Wisconsin,Bachelor's Degree,152776
+399,2022,Wisconsin,Doctoral Degree,211950
+400,2022,Wisconsin,Master's Degree,68700
+401,2022,Wyoming,Associate Degree,42853
+402,2022,Wyoming,Bachelor's Degree,144068
+403,2022,Wyoming,Doctoral Degree,225358
+404,2022,Wyoming,Master's Degree,74324
+405,2023,Alabama,Associate Degree,42002
+406,2023,Alabama,Bachelor's Degree,150956
+407,2023,Alabama,Doctoral Degree,211620
+408,2023,Alabama,Master's Degree,71217
+409,2023,Alaska,Associate Degree,42078
+410,2023,Alaska,Bachelor's Degree,151968
+411,2023,Alaska,Doctoral Degree,233180
+412,2023,Alaska,Master's Degree,71735
+413,2023,Arizona,Associate Degree,42449
+414,2023,Arizona,Bachelor's Degree,150266
+415,2023,Arizona,Doctoral Degree,215203
+416,2023,Arizona,Master's Degree,72685
+417,2023,Arkansas,Associate Degree,41218
+418,2023,Arkansas,Bachelor's Degree,155900
+419,2023,Arkansas,Doctoral Degree,225820
+420,2023,Arkansas,Master's Degree,72170
+421,2023,California,Associate Degree,42693
+422,2023,California,Bachelor's Degree,141640
+423,2023,California,Doctoral Degree,224173
+424,2023,California,Master's Degree,71433
+425,2023,Colorado,Associate Degree,42870
+426,2023,Colorado,Bachelor's Degree,151168
+427,2023,Colorado,Doctoral Degree,223853
+428,2023,Colorado,Master's Degree,68248
+429,2023,Connecticut,Associate Degree,41630
+430,2023,Connecticut,Bachelor's Degree,142902
+431,2023,Connecticut,Doctoral Degree,221030
+432,2023,Connecticut,Master's Degree,69457
+433,2023,Delaware,Associate Degree,42100
+434,2023,Delaware,Bachelor's Degree,153014
+435,2023,Delaware,Doctoral Degree,232238
+436,2023,Delaware,Master's Degree,75048
+437,2023,District of Columbia,Associate Degree,43174
+438,2023,District of Columbia,Bachelor's Degree,149894
+439,2023,District of Columbia,Doctoral Degree,217863
+440,2023,District of Columbia,Master's Degree,66081
+441,2023,Florida,Associate Degree,41622
+442,2023,Florida,Bachelor's Degree,143226
+443,2023,Florida,Doctoral Degree,227378
+444,2023,Florida,Master's Degree,69620
+445,2023,Georgia,Associate Degree,39918
+446,2023,Georgia,Bachelor's Degree,148028
+447,2023,Georgia,Doctoral Degree,233428
+448,2023,Georgia,Master's Degree,65832
+449,2023,Hawaii,Associate Degree,40368
+450,2023,Hawaii,Bachelor's Degree,143850
+451,2023,Hawaii,Doctoral Degree,218225
+452,2023,Hawaii,Master's Degree,69227
+453,2023,Idaho,Associate Degree,41468
+454,2023,Idaho,Bachelor's Degree,147048
+455,2023,Idaho,Doctoral Degree,232570
+456,2023,Idaho,Master's Degree,68408
+457,2023,Illinois,Associate Degree,41226
+458,2023,Illinois,Bachelor's Degree,149686
+459,2023,Illinois,Doctoral Degree,227908
+460,2023,Illinois,Master's Degree,69833
+461,2023,Indiana,Associate Degree,40694
+462,2023,Indiana,Bachelor's Degree,150558
+463,2023,Indiana,Doctoral Degree,227658
+464,2023,Indiana,Master's Degree,68254
+465,2023,Iowa,Associate Degree,41543
+466,2023,Iowa,Bachelor's Degree,149442
+467,2023,Iowa,Doctoral Degree,223673
+468,2023,Iowa,Master's Degree,69286
+469,2023,Kansas,Associate Degree,41423
+470,2023,Kansas,Bachelor's Degree,151228
+471,2023,Kansas,Doctoral Degree,216548
+472,2023,Kansas,Master's Degree,72806
+473,2023,Kentucky,Associate Degree,42700
+474,2023,Kentucky,Bachelor's Degree,146468
+475,2023,Kentucky,Doctoral Degree,221255
+476,2023,Kentucky,Master's Degree,66592
+477,2023,Louisiana,Associate Degree,41489
+478,2023,Louisiana,Bachelor's Degree,142716
+479,2023,Louisiana,Doctoral Degree,227845
+480,2023,Louisiana,Master's Degree,73746
+481,2023,Maine,Associate Degree,43320
+482,2023,Maine,Bachelor's Degree,152236
+483,2023,Maine,Doctoral Degree,222690
+484,2023,Maine,Master's Degree,71102
+485,2023,Maryland,Associate Degree,40981
+486,2023,Maryland,Bachelor's Degree,150976
+487,2023,Maryland,Doctoral Degree,228830
+488,2023,Maryland,Master's Degree,75014
+489,2023,Massachusetts,Associate Degree,41378
+490,2023,Massachusetts,Bachelor's Degree,143624
+491,2023,Massachusetts,Doctoral Degree,219955
+492,2023,Massachusetts,Master's Degree,71780
+493,2023,Michigan,Associate Degree,41018
+494,2023,Michigan,Bachelor's Degree,152268
+495,2023,Michigan,Doctoral Degree,222300
+496,2023,Michigan,Master's Degree,67916
+497,2023,Minnesota,Associate Degree,41363
+498,2023,Minnesota,Bachelor's Degree,147792
+499,2023,Minnesota,Doctoral Degree,209413
+500,2023,Minnesota,Master's Degree,71867
+501,2023,Mississippi,Associate Degree,40775
+502,2023,Mississippi,Bachelor's Degree,152354
+503,2023,Mississippi,Doctoral Degree,218678
+504,2023,Mississippi,Master's Degree,70375
+505,2023,Missouri,Associate Degree,40191
+506,2023,Missouri,Bachelor's Degree,149478
+507,2023,Missouri,Doctoral Degree,224465
+508,2023,Missouri,Master's Degree,69653
+509,2023,Montana,Associate Degree,41007
+510,2023,Montana,Bachelor's Degree,156538
+511,2023,Montana,Doctoral Degree,218915
+512,2023,Montana,Master's Degree,74032
+513,2023,Nebraska,Associate Degree,41153
+514,2023,Nebraska,Bachelor's Degree,150984
+515,2023,Nebraska,Doctoral Degree,214360
+516,2023,Nebraska,Master's Degree,73392
+517,2023,Nevada,Associate Degree,41293
+518,2023,Nevada,Bachelor's Degree,153844
+519,2023,Nevada,Doctoral Degree,228573
+520,2023,Nevada,Master's Degree,71765
+521,2023,New Hampshire,Associate Degree,39909
+522,2023,New Hampshire,Bachelor's Degree,150906
+523,2023,New Hampshire,Doctoral Degree,223513
+524,2023,New Hampshire,Master's Degree,73148
+525,2023,New Jersey,Associate Degree,40677
+526,2023,New Jersey,Bachelor's Degree,148202
+527,2023,New Jersey,Doctoral Degree,219240
+528,2023,New Jersey,Master's Degree,67643
+529,2023,New Mexico,Associate Degree,40599
+530,2023,New Mexico,Bachelor's Degree,150098
+531,2023,New Mexico,Doctoral Degree,218130
+532,2023,New Mexico,Master's Degree,72327
+533,2023,New York,Associate Degree,41211
+534,2023,New York,Bachelor's Degree,151064
+535,2023,New York,Doctoral Degree,225933
+536,2023,New York,Master's Degree,71543
+537,2023,North Carolina,Associate Degree,41014
+538,2023,North Carolina,Bachelor's Degree,149590
+539,2023,North Carolina,Doctoral Degree,229520
+540,2023,North Carolina,Master's Degree,74597
+541,2023,North Dakota,Associate Degree,42914
+542,2023,North Dakota,Bachelor's Degree,153370
+543,2023,North Dakota,Doctoral Degree,223543
+544,2023,North Dakota,Master's Degree,69004
+545,2023,Ohio,Associate Degree,40885
+546,2023,Ohio,Bachelor's Degree,159304
+547,2023,Ohio,Doctoral Degree,225455
+548,2023,Ohio,Master's Degree,68737
+549,2023,Oklahoma,Associate Degree,42072
+550,2023,Oklahoma,Bachelor's Degree,147854
+551,2023,Oklahoma,Doctoral Degree,222203
+552,2023,Oklahoma,Master's Degree,72428
+553,2023,Oregon,Associate Degree,39730
+554,2023,Oregon,Bachelor's Degree,148432
+555,2023,Oregon,Doctoral Degree,215535
+556,2023,Oregon,Master's Degree,72014
+557,2023,Pennsylvania,Associate Degree,41914
+558,2023,Pennsylvania,Bachelor's Degree,148622
+559,2023,Pennsylvania,Doctoral Degree,222178
+560,2023,Pennsylvania,Master's Degree,69971
+561,2023,Rhode Island,Associate Degree,40133
+562,2023,Rhode Island,Bachelor's Degree,147380
+563,2023,Rhode Island,Doctoral Degree,202745
+564,2023,Rhode Island,Master's Degree,73899
+565,2023,South Carolina,Associate Degree,41158
+566,2023,South Carolina,Bachelor's Degree,146944
+567,2023,South Carolina,Doctoral Degree,204558
+568,2023,South Carolina,Master's Degree,70240
+569,2023,South Dakota,Associate Degree,40862
+570,2023,South Dakota,Bachelor's Degree,146108
+571,2023,South Dakota,Doctoral Degree,226170
+572,2023,South Dakota,Master's Degree,72105
+573,2023,Tennessee,Associate Degree,41719
+574,2023,Tennessee,Bachelor's Degree,156536
+575,2023,Tennessee,Doctoral Degree,217243
+576,2023,Tennessee,Master's Degree,71435
+577,2023,Texas,Associate Degree,41848
+578,2023,Texas,Bachelor's Degree,147168
+579,2023,Texas,Doctoral Degree,219993
+580,2023,Texas,Master's Degree,71226
+581,2023,Utah,Associate Degree,41841
+582,2023,Utah,Bachelor's Degree,154584
+583,2023,Utah,Doctoral Degree,216878
+584,2023,Utah,Master's Degree,72698
+585,2023,Vermont,Associate Degree,40896
+586,2023,Vermont,Bachelor's Degree,157112
+587,2023,Vermont,Doctoral Degree,231643
+588,2023,Vermont,Master's Degree,71506
+589,2023,Virginia,Associate Degree,42406
+590,2023,Virginia,Bachelor's Degree,152532
+591,2023,Virginia,Doctoral Degree,218250
+592,2023,Virginia,Master's Degree,70539
+593,2023,Washington,Associate Degree,41245
+594,2023,Washington,Bachelor's Degree,153276
+595,2023,Washington,Doctoral Degree,222230
+596,2023,Washington,Master's Degree,68003
+597,2023,West Virginia,Associate Degree,39480
+598,2023,West Virginia,Bachelor's Degree,153706
+599,2023,West Virginia,Doctoral Degree,223583
+600,2023,West Virginia,Master's Degree,72021
+601,2023,Wisconsin,Associate Degree,40273
+602,2023,Wisconsin,Bachelor's Degree,152048
+603,2023,Wisconsin,Doctoral Degree,215240
+604,2023,Wisconsin,Master's Degree,69706
+605,2023,Wyoming,Associate Degree,41571
+606,2023,Wyoming,Bachelor's Degree,154670
+607,2023,Wyoming,Doctoral Degree,218860
+608,2023,Wyoming,Master's Degree,65098
+609,2024,Alabama,Associate Degree,41890
+610,2024,Alabama,Bachelor's Degree,148704
+611,2024,Alabama,Doctoral Degree,223733
+612,2024,Alabama,Master's Degree,68623
+613,2024,Alaska,Associate Degree,41322
+614,2024,Alaska,Bachelor's Degree,144480
+615,2024,Alaska,Doctoral Degree,230353
+616,2024,Alaska,Master's Degree,72685
+617,2024,Arizona,Associate Degree,40527
+618,2024,Arizona,Bachelor's Degree,148582
+619,2024,Arizona,Doctoral Degree,219243
+620,2024,Arizona,Master's Degree,73424
+621,2024,Arkansas,Associate Degree,42262
+622,2024,Arkansas,Bachelor's Degree,147324
+623,2024,Arkansas,Doctoral Degree,214623
+624,2024,Arkansas,Master's Degree,70458
+625,2024,California,Associate Degree,42314
+626,2024,California,Bachelor's Degree,147220
+627,2024,California,Doctoral Degree,230935
+628,2024,California,Master's Degree,70391
+629,2024,Colorado,Associate Degree,43219
+630,2024,Colorado,Bachelor's Degree,150196
+631,2024,Colorado,Doctoral Degree,228005
+632,2024,Colorado,Master's Degree,68936
+633,2024,Connecticut,Associate Degree,40048
+634,2024,Connecticut,Bachelor's Degree,145326
+635,2024,Connecticut,Doctoral Degree,210303
+636,2024,Connecticut,Master's Degree,68675
+637,2024,Delaware,Associate Degree,43239
+638,2024,Delaware,Bachelor's Degree,148946
+639,2024,Delaware,Doctoral Degree,210793
+640,2024,Delaware,Master's Degree,67379
+641,2024,District of Columbia,Associate Degree,42454
+642,2024,District of Columbia,Bachelor's Degree,152284
+643,2024,District of Columbia,Doctoral Degree,226065
+644,2024,District of Columbia,Master's Degree,73612
+645,2024,Florida,Associate Degree,40979
+646,2024,Florida,Bachelor's Degree,147002
+647,2024,Florida,Doctoral Degree,212368
+648,2024,Florida,Master's Degree,76176
+649,2024,Georgia,Associate Degree,41815
+650,2024,Georgia,Bachelor's Degree,154218
+651,2024,Georgia,Doctoral Degree,222315
+652,2024,Georgia,Master's Degree,74056
+653,2024,Hawaii,Associate Degree,41993
+654,2024,Hawaii,Bachelor's Degree,149772
+655,2024,Hawaii,Doctoral Degree,225520
+656,2024,Hawaii,Master's Degree,70534
+657,2024,Idaho,Associate Degree,39921
+658,2024,Idaho,Bachelor's Degree,152494
+659,2024,Idaho,Doctoral Degree,220928
+660,2024,Idaho,Master's Degree,70869
+661,2024,Illinois,Associate Degree,40479
+662,2024,Illinois,Bachelor's Degree,145304
+663,2024,Illinois,Doctoral Degree,233408
+664,2024,Illinois,Master's Degree,74738
+665,2024,Indiana,Associate Degree,40130
+666,2024,Indiana,Bachelor's Degree,140500
+667,2024,Indiana,Doctoral Degree,220975
+668,2024,Indiana,Master's Degree,67444
+669,2024,Iowa,Associate Degree,41522
+670,2024,Iowa,Bachelor's Degree,149472
+671,2024,Iowa,Doctoral Degree,227788
+672,2024,Iowa,Master's Degree,73893
+673,2024,Kansas,Associate Degree,41206
+674,2024,Kansas,Bachelor's Degree,148628
+675,2024,Kansas,Doctoral Degree,216738
+676,2024,Kansas,Master's Degree,67028
+677,2024,Kentucky,Associate Degree,40806
+678,2024,Kentucky,Bachelor's Degree,150902
+679,2024,Kentucky,Doctoral Degree,221643
+680,2024,Kentucky,Master's Degree,67571
+681,2024,Louisiana,Associate Degree,39554
+682,2024,Louisiana,Bachelor's Degree,152710
+683,2024,Louisiana,Doctoral Degree,209893
+684,2024,Louisiana,Master's Degree,71974
+685,2024,Maine,Associate Degree,40715
+686,2024,Maine,Bachelor's Degree,153984
+687,2024,Maine,Doctoral Degree,219420
+688,2024,Maine,Master's Degree,72165
+689,2024,Maryland,Associate Degree,42193
+690,2024,Maryland,Bachelor's Degree,145462
+691,2024,Maryland,Doctoral Degree,213168
+692,2024,Maryland,Master's Degree,67583
+693,2024,Massachusetts,Associate Degree,41678
+694,2024,Massachusetts,Bachelor's Degree,144758
+695,2024,Massachusetts,Doctoral Degree,227758
+696,2024,Massachusetts,Master's Degree,73185
+697,2024,Michigan,Associate Degree,42873
+698,2024,Michigan,Bachelor's Degree,156992
+699,2024,Michigan,Doctoral Degree,226238
+700,2024,Michigan,Master's Degree,69915
+701,2024,Minnesota,Associate Degree,42361
+702,2024,Minnesota,Bachelor's Degree,157488
+703,2024,Minnesota,Doctoral Degree,226955
+704,2024,Minnesota,Master's Degree,69658
+705,2024,Mississippi,Associate Degree,39505
+706,2024,Mississippi,Bachelor's Degree,141118
+707,2024,Mississippi,Doctoral Degree,222355
+708,2024,Mississippi,Master's Degree,70136
+709,2024,Missouri,Associate Degree,43402
+710,2024,Missouri,Bachelor's Degree,147248
+711,2024,Missouri,Doctoral Degree,221933
+712,2024,Missouri,Master's Degree,71563
+713,2024,Montana,Associate Degree,42485
+714,2024,Montana,Bachelor's Degree,152622
+715,2024,Montana,Doctoral Degree,227970
+716,2024,Montana,Master's Degree,69807
+717,2024,Nebraska,Associate Degree,40659
+718,2024,Nebraska,Bachelor's Degree,149186
+719,2024,Nebraska,Doctoral Degree,207158
+720,2024,Nebraska,Master's Degree,73997
+721,2024,Nevada,Associate Degree,40524
+722,2024,Nevada,Bachelor's Degree,154480
+723,2024,Nevada,Doctoral Degree,218208
+724,2024,Nevada,Master's Degree,73448
+725,2024,New Hampshire,Associate Degree,42502
+726,2024,New Hampshire,Bachelor's Degree,151624
+727,2024,New Hampshire,Doctoral Degree,225993
+728,2024,New Hampshire,Master's Degree,70462
+729,2024,New Jersey,Associate Degree,42010
+730,2024,New Jersey,Bachelor's Degree,151956
+731,2024,New Jersey,Doctoral Degree,220405
+732,2024,New Jersey,Master's Degree,71538
+733,2024,New Mexico,Associate Degree,42180
+734,2024,New Mexico,Bachelor's Degree,150348
+735,2024,New Mexico,Doctoral Degree,220855
+736,2024,New Mexico,Master's Degree,71526
+737,2024,New York,Associate Degree,39355
+738,2024,New York,Bachelor's Degree,146260
+739,2024,New York,Doctoral Degree,216885
+740,2024,New York,Master's Degree,70919
+741,2024,North Carolina,Associate Degree,40049
+742,2024,North Carolina,Bachelor's Degree,152444
+743,2024,North Carolina,Doctoral Degree,211283
+744,2024,North Carolina,Master's Degree,69077
+745,2024,North Dakota,Associate Degree,42487
+746,2024,North Dakota,Bachelor's Degree,153284
+747,2024,North Dakota,Doctoral Degree,211060
+748,2024,North Dakota,Master's Degree,70365
+749,2024,Ohio,Associate Degree,42152
+750,2024,Ohio,Bachelor's Degree,150030
+751,2024,Ohio,Doctoral Degree,234318
+752,2024,Ohio,Master's Degree,68332
+753,2024,Oklahoma,Associate Degree,41410
+754,2024,Oklahoma,Bachelor's Degree,143800
+755,2024,Oklahoma,Doctoral Degree,220033
+756,2024,Oklahoma,Master's Degree,70041
+757,2024,Oregon,Associate Degree,41842
+758,2024,Oregon,Bachelor's Degree,148628
+759,2024,Oregon,Doctoral Degree,216400
+760,2024,Oregon,Master's Degree,69390
+761,2024,Pennsylvania,Associate Degree,42793
+762,2024,Pennsylvania,Bachelor's Degree,147088
+763,2024,Pennsylvania,Doctoral Degree,224755
+764,2024,Pennsylvania,Master's Degree,68992
+765,2024,Rhode Island,Associate Degree,41314
+766,2024,Rhode Island,Bachelor's Degree,152802
+767,2024,Rhode Island,Doctoral Degree,232393
+768,2024,Rhode Island,Master's Degree,71080
+769,2024,South Carolina,Associate Degree,41937
+770,2024,South Carolina,Bachelor's Degree,155774
+771,2024,South Carolina,Doctoral Degree,232285
+772,2024,South Carolina,Master's Degree,69951
+773,2024,South Dakota,Associate Degree,43378
+774,2024,South Dakota,Bachelor's Degree,144748
+775,2024,South Dakota,Doctoral Degree,218645
+776,2024,South Dakota,Master's Degree,73552
+777,2024,Tennessee,Associate Degree,42813
+778,2024,Tennessee,Bachelor's Degree,153324
+779,2024,Tennessee,Doctoral Degree,214598
+780,2024,Tennessee,Master's Degree,67593
+781,2024,Texas,Associate Degree,41570
+782,2024,Texas,Bachelor's Degree,143120
+783,2024,Texas,Doctoral Degree,221900
+784,2024,Texas,Master's Degree,71626
+785,2024,Utah,Associate Degree,42218
+786,2024,Utah,Bachelor's Degree,151260
+787,2024,Utah,Doctoral Degree,218535
+788,2024,Utah,Master's Degree,69898
+789,2024,Vermont,Associate Degree,41276
+790,2024,Vermont,Bachelor's Degree,144140
+791,2024,Vermont,Doctoral Degree,211830
+792,2024,Vermont,Master's Degree,70022
+793,2024,Virginia,Associate Degree,42375
+794,2024,Virginia,Bachelor's Degree,157932
+795,2024,Virginia,Doctoral Degree,225590
+796,2024,Virginia,Master's Degree,68235
+797,2024,Washington,Associate Degree,43376
+798,2024,Washington,Bachelor's Degree,145080
+799,2024,Washington,Doctoral Degree,231023
+800,2024,Washington,Master's Degree,68547
+801,2024,West Virginia,Associate Degree,41724
+802,2024,West Virginia,Bachelor's Degree,154542
+803,2024,West Virginia,Doctoral Degree,218928
+804,2024,West Virginia,Master's Degree,72050
+805,2024,Wisconsin,Associate Degree,39555
+806,2024,Wisconsin,Bachelor's Degree,147236
+807,2024,Wisconsin,Doctoral Degree,219070
+808,2024,Wisconsin,Master's Degree,74238
+809,2024,Wyoming,Associate Degree,41543
+810,2024,Wyoming,Bachelor's Degree,150182
+811,2024,Wyoming,Doctoral Degree,212415
+812,2024,Wyoming,Master's Degree,69674
