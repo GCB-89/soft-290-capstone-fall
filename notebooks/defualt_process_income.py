@@ -58,8 +58,9 @@ for key, value in education_options.items():
 education_choice = input("Enter the number for your education level: ").strip()
 education = education_options.get(education_choice, "High School")
 """
-career = sys.argv[1]
-education = sys.argv[2]
+# Command line args
+career = career_options.get(sys.argv[1])
+education = education_options.get(sys.argv[2])
 
 
 # Encode input
@@ -69,7 +70,7 @@ education_encoded = safe_encode(education_encoder, education)
 # Predict
 input_data = np.array([[career_encoded, education_encoded]])
 predicted_income = loaded_model.predict(input_data)[0]
-print(f"\n💼 Predicted Monthly Income for {career} with {education}: ${predicted_income:.2f}")
+#print(f"\n💼 Predicted Monthly Income for {career} with {education}: ${predicted_income:.2f}")
 
 # Format output
 output = {
@@ -80,19 +81,21 @@ output = {
     "predicted_monthly_income": round(float(predicted_income), 2)
 }
 
+print(json.dumps(output))
+
 # ✅ Save to JSON file in 'json' folder (relative to script; falls back to CWD if __file__ isn't set)
 
-try:
-    base_dir = os.path.dirname(os.path.abspath(__file__))
-except NameError:
-    base_dir = os.getcwd()
+# try:
+#     base_dir = os.path.dirname(os.path.abspath(__file__))
+# except NameError:
+#     base_dir = os.getcwd()
 
-json_dir = os.path.join(base_dir, "json")
-os.makedirs(json_dir, exist_ok=True)
-json_path = os.path.join(json_dir, "prediction_output.json")
+# json_dir = os.path.join(base_dir, "json")
+# os.makedirs(json_dir, exist_ok=True)
+# json_path = os.path.join(json_dir, "prediction_output.json")
 
-with open(json_path, "w", encoding="utf-8") as f:
-    json.dump(output, f, indent=4, ensure_ascii=False)
+# with open(json_path, "w", encoding="utf-8") as f:
+#     json.dump(output, f, indent=4, ensure_ascii=False)
 
-print(f"\n📁 Prediction saved to {json_path}")
+# print(f"\n📁 Prediction saved to {json_path}")
 
