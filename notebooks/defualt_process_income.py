@@ -3,6 +3,7 @@ import numpy as np
 import re
 import os
 import json
+import sys
 # Load model and encoders
 bundle = joblib.load("Models/Gradient Boosting_bundle.pkl")  # Replace with your actual filename if different
 loaded_model = bundle["model"]
@@ -44,8 +45,8 @@ def safe_encode(encoder, label, fallback_classes=None):
     print(f"⚠️ Warning: '{label}' not recognized. Falling back to '{fallback}'.")
     return int(encoder.transform([fallback])[0])
 
-# Get user input
-print("Select a career:")
+# Get user input Edit 10/29/2024: Changed to command line args for easier testing
+"""print("Select a career:")
 for key, value in career_options.items():
     print(f"{key}: {value}")
 career_choice = input("Enter the number for your career: ").strip()
@@ -56,6 +57,10 @@ for key, value in education_options.items():
     print(f"{key}: {value}")
 education_choice = input("Enter the number for your education level: ").strip()
 education = education_options.get(education_choice, "High School")
+"""
+career = sys.argv[1]
+education = sys.argv[2]
+
 
 # Encode input
 career_encoded = safe_encode(career_encoder, career)
